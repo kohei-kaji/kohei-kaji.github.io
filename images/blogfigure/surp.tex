@@ -1,0 +1,23 @@
+\documentclass[border=2mm]{standalone}
+\usepackage{pgfplots}
+
+
+\begin{document}
+
+\begin{tikzpicture}
+    \begin{axis}[
+        domain=0.01:1,
+        samples=200,
+        xlabel={\( P(x) \)},
+        ylabel={\( -\log P(x) \)},
+        ymin=0, ymax=5,
+        xmin=0, xmax=1,
+        grid=major,
+        width=0.5\textwidth,
+        height=0.5\textwidth,
+    ]
+        \addplot[thick, blue] {-log2(x)};
+    \end{axis}
+\end{tikzpicture}
+
+\end{document}

@@ -45,23 +45,22 @@ Preprints
 ------
 - Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, and Yohei Oseki. Rethinking the Relationship between the Power Law and Hierarchical Structures. *arXiv*. 05.2025.
 [[pdf](https://arxiv.org/abs/2505.04984)]
-- Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimito, and Yohei Oseki. If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?. *arXiv*. 02.2025.
+- Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimito, and Yohei Oseki. If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?. *arXiv*. 02.2025. (to appear in ACL2025)
 [[pdf](https://arxiv.org/abs/2502.11469)]
 
 
 Awards
 ======
-<!-- - [NINJAL Director's Award](), 06.2025
-- [NINJAL Young Researchers Award](), 06.2025 -->
+<!-- - NINJAL Director's Award, 06.2025
+- NINJAL Young Researchers Award, 06.2025 -->
 - [Young Researchers Award, The Association for Natural Language Processing](https://www.anlp.jp/nlp2025/award.html#encouragement), 03.2025
 - [Committee Special Award, The Association for Natural Language Processing](https://www.anlp.jp/nlp2025/award.html#committee), 03.2025
 - CoNLL 2024 Best Paper Award, 12.2024
-- [Best Presentation Award, The Linguistic Society of Japan](https://ls-japan.org/work/award/awd168/), 11.2024
 - [Committee Special Award, The Association for Natural Language Processing](https://www.anlp.jp/nlp2024/award.html#committee), 03.2024
 
 Fellowships
 ======
-- 04.2025 - 03.2028: [JSPS Fellowship (DC1)](https://www.jsps.go.jp/english/e-pd/)
+- 04.2025 - 03.2028: [JSPS Research Fellowship (DC1)](https://www.jsps.go.jp/english/e-pd/)  [[kaken](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25KJ1326/)]
 
 Education
 ======
@@ -74,8 +73,8 @@ Education
 Activities in Japan
 ======
 
-<!-- 最近（2023年8月から2024年12月くらい）考えていたことについては、[こちら](https://doi.org/10.5715/jnlp.32.372)に書かせてもらいました。 -->
-<!-- また、[アメリカ大学院の出願](/posts/2025/phdapp)、[情報理論](/posts/2025/infotheory/)、[文法の生成力](/posts/2024/mcsg/)、[組合せ範疇文法 (CCG)](/posts/2023/ccg/) についての[ブログ記事](/year-archive/)を書いているのでよかったら読んでください。 -->
+修士の間に考えていたことについては、[こちら](https://doi.org/10.5715/jnlp.32.372)に書かせてもらいました。
+また、[アメリカ大学院の出願](/posts/2025/phdapp)、[情報理論](/posts/2025/infotheory/)、[文法の生成力](/posts/2024/mcsg/)、[組合せ範疇文法 (CCG)](/posts/2023/ccg/) についての[ブログ記事](/year-archive/)を書いているのでよかったら読んでください。どれも書きかけですが。
 
 
 

@@ -1,0 +1,14 @@
+\documentclass[border=2mm]{standalone}
+\usepackage{ccg,amsmath}
+
+\begin{document}
+\deriv{3}{
+\text{Taro} & \text{likes} & \text{Hanako} \\
+\ul{1} & \ul{1} & \ul{1} \\
+\mathit{NP} & \mathit{S\bs NP/NP} & \mathit{NP} \\
+& \fapply{2} \\
+& \mc{2}{\mathit{S\bs NP}} \\
+\bapply{3} \\
+\mc{3}{\mathit{S}}
+}
+\end{document}

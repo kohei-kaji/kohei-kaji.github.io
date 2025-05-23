@@ -1,0 +1,14 @@
+\documentclass[border=2mm]{standalone}
+\usepackage{tikz-dependency}
+
+\begin{document}
+
+\begin{dependency}[arc edge, edge style={-}, arc angle=80, text only label, label style={above}, hide label]
+    \begin{deptext}
+       \textcolor{red}{John} \& and \& \textcolor{blue}{Mary} \& \textcolor{red}{walked} \& and \& \textcolor{blue}{ran}, \& respectively \\
+    \end{deptext}
+    \depedge{1}{4}{}
+    \depedge{3}{6}{}
+\end{dependency}
+
+\end{document}

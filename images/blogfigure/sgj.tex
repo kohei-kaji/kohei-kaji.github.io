@@ -1,0 +1,15 @@
+\documentclass[border=2mm]{standalone}
+\usepackage{tikz-dependency}
+
+\begin{document}
+
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}, hide label]
+    \begin{deptext}
+       watashitachi ga \& \textcolor{red}{kodomotachi ni} \& \textcolor{blue}{Hans ga} \& ie o \& nuru no o \& \textcolor{blue}{tetsudawa} \& \textcolor{red}{saseta} \\
+    \end{deptext}
+    \depedge{7}{2}{}
+    \depedge{6}{3}{}
+    \depedge{5}{4}{}
+\end{dependency}
+
+\end{document}

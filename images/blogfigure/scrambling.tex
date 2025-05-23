@@ -1,0 +1,16 @@
+\documentclass[border=2mm]{standalone}
+\usepackage{tikz-dependency}
+
+\begin{document}
+
+\begin{dependency}[arc edge, edge style={-}, arc angle=80, text only label, label style={above}, hide label]
+    \begin{deptext}
+        hon o \& Taro ga \& Hanako ni \& kauyou \& tanonda \\
+    \end{deptext}
+    \depedge{2}{5}{}
+    \depedge{3}{5}{}
+    \depedge{1}{4}{}
+    \depedge{4}{5}{}
+\end{dependency}
+
+\end{document}

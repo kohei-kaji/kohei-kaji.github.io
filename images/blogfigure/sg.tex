@@ -1,0 +1,16 @@
+\documentclass[border=2mm]{standalone}
+\usepackage{tikz-dependency}
+
+\begin{document}
+
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}, hide label]
+    \begin{deptext}
+       ...das \& mer \& \textcolor{red}{d'chind} \& \textcolor{blue}{em Hans} \& es huus \& \textcolor{red}{l\"{o}nd} \& \textcolor{blue}{h\"{a}lfe} \& aastriiche \\
+       that \& we-\textsc{nom} \& \textcolor{red}{the children-\textsc{acc}} \& \textcolor{blue}{Hans-\textsc{dat}} \& the house-\textsc{acc} \& \textcolor{red}{let} \& \textcolor{blue}{help} \& paint \\
+    \end{deptext}
+    \depedge{6}{3}{}
+    \depedge{7}{4}{}
+    \depedge{8}{5}{}
+\end{dependency}
+
+\end{document}
