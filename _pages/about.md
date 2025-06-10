@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 
-Hi! I'm Kohei Kajikawa（梶川康平）, a first-year PhD student at [NINJAL](https://www.ninjal.ac.jp/english/).
-I will join [Georgetown (Computational) Linguistics](https://linguistics.georgetown.edu/) as a PhD student in Fall 2025.
-My research lies at the intersection of computational linguistics and psycholinguistics.
+Hi! I'm Kohei Kajikawa, a first-year PhD student at the [National Institute for Japanese Language and Linguistics (NINJAL)](https://www.ninjal.ac.jp/english/), working with [Prof. Yusuke Kubota](https://www2.ninjal.ac.jp/kubota/) and [Dr. Shinnosuke Isono](https://researchmap.jp/isono-shinnosuke?lang=en).
 
+I will join [Georgetown Linguistics](https://linguistics.georgetown.edu/) as a PhD student in Fall 2025.
+
+My research lies at the intersection of computational linguistics and psycholinguistics.
 I am particularly interested in *how* humans can comprehend sentence meaning through the use of hierarchical linguistic structures such as syntax. 
 And I am curious about *why* language structures are the way they are.
 In particular, I investigate to what extent principles of communicative efficiency can (and cannot) account for the syntactic patterns observed across languages.
@@ -19,9 +20,10 @@ In particular, I investigate to what extent principles of communicative efficien
 
 News
 ======
+- 06.2025: 国立国語研究所にて、所長賞と若手研究者奨励賞をいただきました！
 - 04.2025: Our study will be presented at CogSci2025!
 - 04.2025: I have been selected for the Japan Society for the Promotion of Science (JSPS) Research Fellowship (DC1).
-- 12.2024: Our paper, *Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination*, has received Best Paper Award at CoNLL2024!
+- 12.2024: Our paper, *Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination*, has received **Best Paper Award at CoNLL2024**!
 
 Publications
 ======
@@ -44,19 +46,16 @@ Publications
 Preprints
 ------
 - Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, and Yohei Oseki. Rethinking the Relationship between the Power Law and Hierarchical Structures. *arXiv*. 05.2025.
-[[pdf](https://arxiv.org/abs/2505.04984)]
+[[arXiv](https://arxiv.org/abs/2505.04984)]
 - Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimito, and Yohei Oseki. If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?. *arXiv*. 02.2025. (to appear in ACL2025)
-[[pdf](https://arxiv.org/abs/2502.11469)]
+[[arXiv](https://arxiv.org/abs/2502.11469)]
 
 
 Awards
 ======
-<!-- - NINJAL Director's Award, 06.2025
-- NINJAL Young Researchers Award, 06.2025 -->
-- [Young Researchers Award, The Association for Natural Language Processing](https://www.anlp.jp/nlp2025/award.html#encouragement), 03.2025
-- [Committee Special Award, The Association for Natural Language Processing](https://www.anlp.jp/nlp2025/award.html#committee), 03.2025
-- CoNLL 2024 Best Paper Award, 12.2024
-- [Committee Special Award, The Association for Natural Language Processing](https://www.anlp.jp/nlp2024/award.html#committee), 03.2024
+- 06.2025: NINJAL Director's Award
+- 06.2025: NINJAL Young Researcher Encouragement Award
+- 12.2024: CoNLL 2024 Best Paper Award
 
 Fellowships
 ======
@@ -64,7 +63,7 @@ Fellowships
 
 Education
 ======
-- 04.2025 - Present: National Institute of Japanese Language and Linguistics (NINJAL), PhD in Linguistics.
+- 04.2025 - Present: National Institute for Japanese Language and Linguistics (NINJAL), PhD in Linguistics.
 - 04.2023 - 03.2025: The University of Tokyo, MA in Linguistics.
 - 04.2019 - 03.2023: The University of Tokyo, BA in Linguistics (minor in Computer Science).
 
@@ -74,7 +73,7 @@ Activities in Japan
 ======
 
 修士の間に考えていたことについては、[こちら](https://doi.org/10.5715/jnlp.32.372)に書かせてもらいました。
-また、[アメリカ大学院の出願](/posts/2025/phdapp)、[情報理論](/posts/2025/infotheory/)、[文法の生成力](/posts/2024/mcsg/)、[組合せ範疇文法 (CCG)](/posts/2023/ccg/) についての[ブログ記事](/year-archive/)を書いているのでよかったら読んでください。どれも書きかけですが。
+また、[アメリカ大学院の出願](/posts/2025/phdapp)、[情報理論](/posts/2025/infotheory/)、[文法の生成力](/posts/2024/mcsg/)、[組合せ範疇文法 (CCG)](/posts/2023/ccg/) について、どれも書きかけですが[ブログ記事](/year-archive/)にあるのでよかったら読んでください。
 
 
 
@@ -90,7 +89,7 @@ Activities in Japan
 [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B4-1.pdf)]
 1. 中石海, 吉田遼, **梶川康平**, 福島孝治, 大関洋平. 2025/03. 自然言語における冪則と統語構造の関係の再考. *言語処理学会第31回年次大会*, 37-41, 長崎.
 [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B1-1.pdf)]
-1. 磯野真之介, **梶川康平**, 大関洋平. 2024/06. 日本語大規模読み時間コーパスにおける記憶の負荷のCCGによるモデリング. *第168回 日本言語学会大会*, 63-69, 東京. [🏆**大会発表賞**](https://ls-japan.org/work/award/#happyo).
+1. 磯野真之介, **梶川康平**, 大関洋平. 2024/06. 日本語大規模読み時間コーパスにおける記憶の負荷のCCGによるモデリング. *第168回 日本言語学会大会*, 63-69, 東京. [🏆**大会発表賞**](https://ls-japan.org/work/award/awd168/).
 [[pdf](https://www.ls-japan.org/modules/documents/LSJpapers/meeting/168/handouts/b/B-2_168.pdf)]
 1. **梶川康平**, 窪田悠介, 大関洋平. 2024/03. 統語変形はコミュニケーションから創発するのか？. *言語処理学会第30回年次大会*, 2233-2237, 神戸. [🏆**委員特別賞**](https://www.anlp.jp/nlp2024/award.html#committee).
 [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E8-4.pdf)]

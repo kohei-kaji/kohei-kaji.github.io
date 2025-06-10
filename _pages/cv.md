@@ -9,10 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+======
+National Institute for Japanese Language and Linguistics (NINJAL)\
+Tokyo, Japan\
+Website: `https://kohei-kaji.github.io/`\
+Email: `kohei.kajikawa1223@gmail.com`
+
 Education
 ======
-* M.A. in Linguistics, The University of Tokyo, 2025
-* B.A. in Linguistics, The University of Tokyo, 2023
+- 04.2023 - 03.2025: M.A. in Linguistics, Department of Language and Information Sciences, Graduate School of Arts and Sciences, The University of Tokyo
+  - Thesis: *Structure Dependence is Shaped for Efficient Communication*
+- 04.2019 - 03.2023: B.A. in Linguistics (minor in Computer Science), Department of Humanities and Social Sciences, College of Arts and Sciences, The University of Tokyo
+  - Thesis: *Incremental Semantic Composition as Psycholinguistically Plausible Strategy*
+  - Additionally completed *Mathematics and Data Science Program*
+
+Academic Experiences
+======
+- 06.2025 - Present: Research Assistant, National Institute for Japanese Language and Linguistics
+- 06.2023 - 05.2025: Technical Staff, National Institute for Japanese Language and Linguistics
+- 10.2024 - 03.2025: Teaching Assistant, The University of Tokyo
+  - Introduction to Natural Language Processing
+- 04.2024 - 09.2024: Teaching Assistant, The University of Tokyo
+  - Language of Humans and AI
+- 04.2023 - 09.2023: Teaching Assistant, The University of Tokyo
+  - Linguistics as Cognitive Science
+
+Reviewing
+======
+- Conference Reviewing: CoNLL2025
 
 <!-- Work experience
 ======

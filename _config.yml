@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kohei Kajikawa" # "Your Name / Site Title"
+title                    : "Kohei Kajikawa（梶川康平）" # "Your Name / Site Title"
 title_separator          : "" # "-"
 name                     : &name "Kohei Kajikawa"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   name             : "Kohei Kajikawa"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at NINJAL"
-  location         : "Tokyo"
+  location         : "Tokyo, Japan"
   employer         : "NINJAL"
   uri              : # URL
   email            : "kohei.kajikawa1223@gmail.com" 
