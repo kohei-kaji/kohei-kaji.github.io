@@ -25,18 +25,18 @@ author:
   avatar           : "profile.jpeg"
   name             : "Kohei Kajikawa"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at NINJAL"
-  location         : "Tokyo, Japan"
-  employer         : "NINJAL"
+  bio              : "PhD student at Georgetown"
+  location         : "Washington, D.C."
+  employer         : "Georgetown University"
   uri              : # URL
   email            : "kohei.kajikawa1223@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=olviCecAAAAJ"
   impactstory      : # URL
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-6413-1366"
   semantic         : # URL
   pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Kohei-Kajikawa"

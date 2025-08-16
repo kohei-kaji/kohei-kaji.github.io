@@ -1,6 +1,7 @@
 ---
 title: '確率・情報理論を使った言語研究'
 date: '2025-03-03'
+author_profile: false
 permalink: /posts/2025/infotheory/
 ---
 

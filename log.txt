@@ -1,0 +1,11 @@
+brew install node
+brew install rbenv ruby-build
+rbenv install 3.3.8
+rbenv global 3.3.8
+- .zshrcに以下の書き込み
+[[ -d ~/.rbenv  ]] && \
+  export PATH=${HOME}/.rbenv/bin:${PATH} && \
+  eval "$(rbenv init -)"
+cd github/kohei-kaji.github.io
+gem install bundler
+bundle install
