@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 Hi! I'm Kohei Kajikawa, a first-year phd student in Computational Linguistics at [Georgetown](https://linguistics.georgetown.edu), where I am advised by [Dr. Ethan Wilcox](https://wilcoxeg.github.io).
 
 
@@ -19,6 +18,7 @@ I am particularly interested in *how* humans can comprehend sentence meaning thr
 And I am curious about *why* language structures are the way they are.
 In particular, I investigate to what extent principles of communicative efficiency can (and cannot) account for the syntactic patterns observed across languages.
 
+- [CV](/files/CV_kajikawa.pdf)
 - Email: kohei.kajikawa1223 [at] gmail.com
 - [[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=olviCecAAAAJ)] [[Twitter](https://x.com/qjqw1223)] [[GitHub](https://github.com/kohei-kaji)] [[researchgate](https://www.researchgate.net/profile/Kohei-Kajikawa)] [[researchmap](https://researchmap.jp/kohei-kajikawa)]
 
@@ -35,7 +35,7 @@ Publications
 
 Conference Papers
 ------
-- Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimito, and Yohei Oseki. If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?. In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, pp.9795-9812, Vienna, Austria.
+- Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimoto, and Yohei Oseki. If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?. In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, pp.9795-9812, Vienna, Austria.
 [[url](https://aclanthology.org/2025.acl-long.483/)]
 [[arXiv](https://arxiv.org/abs/2502.11469)]
 - **Kohei Kajikawa**, Yusuke Kubota, and Yohei Oseki. 2024. Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination. In *Proceedings of the 28th Conference on Computational Natural Language Learning (CoNLL)*, pp.291–302, Miami, FL, USA. 🏆**Best Paper Award**
@@ -56,7 +56,7 @@ Conference Papers
 
 Presentations
 ------
-- **Kohei Kajikawa**\*, Shinnosuke Isono\*, Yushi Sugimoto\*, Masayuki Asahara, and Yohei Oseki. 2025, Jul. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. In *Proceedings of the 47th Annual Meeting of the Cognitive Science Society (CogSci)*, San Francisco, CA, USA. (\*=equal contribution)
+- **Kohei Kajikawa**\*, Shinnosuke Isono\*, Yushi Sugimoto\*, Masayuki Asahara, and Yohei Oseki. 2025, Jul. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. *The 47th Annual Meeting of the Cognitive Science Society (CogSci)*, San Francisco, CA, USA. (\*=equal contribution)
 [[url](https://underline.io/events/489/posters/20440/poster/119339-p1-i-84-exploring-spatial-and-temporal-dynamics-of-language-comprehension-in-the-brain-with-ccg)]
 - **Kohei Kajikawa**. 2023, Nov. Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar. In *Proceedings of Logic and Engineering of Natural Language Semantics 20 (LENLS)*, pp.99–103, Osaka, Japan.
 [[pdf](/files/papers/lenls2023.pdf)]
@@ -68,13 +68,13 @@ Preprints
 [[arXiv](https://arxiv.org/abs/2505.04984)]
 
 
-Awards
+Awards and Honors
 ======
 - 06.2025: NINJAL Director's Award
 - 06.2025: NINJAL Young Researcher Encouragement Award
 - 12.2024: CoNLL 2024 Best Paper Award
 
-Fellowships
+Grants and Fellowships
 ======
 - 08.2025 - 05.2026: Georgetown University Merit-based Graduate School Scholarship
 - 04.2025 - 03.2028: [JSPS Research Fellowship (DC1)](https://www.jsps.go.jp/english/e-pd/) [[kaken](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25KJ1326/)]
@@ -84,32 +84,10 @@ Fellowships
 
 Education
 ======
-- 08.2025 - Present: PhD in Linguistics, Department of Linguistics, Georgetown University.
+- 08.2025 - Present: PhD in Linguistics, Georgetown University.
 - 04.2025 - 08.2025: PhD in Linguistics, National Institute for Japanese Language and Linguistics (NINJAL).
-- 04.2023 - 03.2025: M.A. in Linguistics, Department of Language and Information Sciences, Graduate School of Arts and Sciences, The University of Tokyo
-  - Thesis: *Structure Dependence is Shaped for Efficient Communication*
-- 04.2019 - 03.2023: B.A. in Linguistics (minor in Computer Science), Department of Humanities and Social Sciences, College of Arts and Sciences, The University of Tokyo
-  - Thesis: *Incremental Semantic Composition as Psycholinguistically Plausible Strategy*
-  - Additionally completed *Mathematics and Data Science Program*
-
-Academic Experiences
-======
-- 08.2025 - Present: Research Assistant, Georgetown Linguistics
-  - Supervisor: Dr. Ethan Wilcox
-- 06.2025 - 08.2025: Research Assistant, National Institute for Japanese Language and Linguistics
-  - Supervisor: Prof. Yusuke Kubota
-- 06.2023 - 05.2025: Technical Staff, National Institute for Japanese Language and Linguistics
-  - Supervisor: Prof. Yusuke Kubota
-- 10.2024 - 03.2025: Teaching Assistant, The University of Tokyo
-  - Introduction to Natural Language Processing
-- 04.2024 - 09.2024: Teaching Assistant, The University of Tokyo
-  - Language of Humans and AI
-- 04.2023 - 09.2023: Teaching Assistant, The University of Tokyo
-  - Linguistics as Cognitive Science
-
-Reviewing
-------
-- Conference Reviewing: CoNLL2025
+- 04.2023 - 03.2025: M.A. in Linguistics, The University of Tokyo
+- 04.2019 - 03.2023: B.A. in Linguistics (minor in Computer Science), The University of Tokyo
 
 
 Activities in Japan
