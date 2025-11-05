@@ -73,7 +73,7 @@ Presentations
 Preprints
 ------
 - Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, and Yohei Oseki. Rethinking the Relationship between the Power Law and Hierarchical Structures. *arXiv*. 05.2025.
-[[arXiv](https://arxiv.org/abs/2505.04984)]
+[[arXiv](https://arxiv.org/abs/2505.04984v2)]
 
 
 Awards and Honors
