@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Kohei Kajikawa, a first-year phd student in Computational Linguistics at [Georgetown](https://linguistics.georgetown.edu), where I am advised by [Dr. Ethan Wilcox](https://wilcoxeg.github.io).
+Hi! I'm Kohei Kajikawa, a first-year PhD student in Computational Linguistics at [Georgetown](https://linguistics.georgetown.edu), where I am advised by [Dr. Ethan Wilcox](https://wilcoxeg.github.io).
 
 
-Previously, I was a first-year phd student at [National Institute for Japanese Language and Linguistics (NINJAL)](https://www.ninjal.ac.jp/english/), working with [Prof. Yusuke Kubota](https://www2.ninjal.ac.jp/kubota) and [Dr. Shinnosuke Isono](https://isono-s.github.io).
+Previously, I was a first-year PhD student at [National Institute for Japanese Language and Linguistics (NINJAL)](https://www.ninjal.ac.jp/english/), working with [Prof. Yusuke Kubota](https://www2.ninjal.ac.jp/kubota) and [Dr. Shinnosuke Isono](https://isono-s.github.io).
 Before that, I earned my M.A. and B.A. in Linguistics from the University of Tokyo.
 
 My research lies at the intersection of psycholinguistics and computational linguistics.
@@ -59,15 +59,15 @@ Conference Papers
 Presentations
 ------
 - Shinnosuke Isono and **Kohei Kajikawa**. 2025, Dec. Grammar as logic, processing as deduction, actions as theorems, states as propositions. *Computational Psycholinguistcs Meeting 2025 (CPL)*, Utrecht, The Netherlands. 📣*Spotlight poster presentation*
-[pdf]
+[[abstract](/files/papers/isono_kajikawa_cpl2025.pdf)]
 - **Kohei Kajikawa** and Shinnosuke Isono. 2025, Dec. Syntactic Node Count as Index of Predictability. *Computational Psycholinguistcs Meeting 2025 (CPL)*, Utrecht, The Netherlands.
-[pdf]
+[[abstract](/files/papers/kajikawa_isono_cpl2025.pdf)]
 [poster]
 - **Kohei Kajikawa**\*, Shinnosuke Isono\*, Yushi Sugimoto\*, Masayuki Asahara, and Yohei Oseki. 2025, Jul. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. *The 47th Annual Meeting of the Cognitive Science Society (CogSci)*, San Francisco, CA, USA. (\*=equal contribution)
 [[url](https://escholarship.org/uc/item/4664w947)]
 [[poster](https://underline.io/events/489/posters/20440/poster/119339-p1-i-84-exploring-spatial-and-temporal-dynamics-of-language-comprehension-in-the-brain-with-ccg)]
 - **Kohei Kajikawa**. 2023, Nov. Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar. In *Proceedings of Logic and Engineering of Natural Language Semantics 20 (LENLS)*, pp.99–103, Osaka, Japan.
-[[pdf](/files/papers/lenls2023.pdf)]
+[[abstract](/files/papers/kajikawa_lenls2023.pdf)]
 [[slides](/files/slides/231119_lenls.pdf)]
 
 Preprints
@@ -84,7 +84,8 @@ Awards and Honors
 
 Grants and Fellowships
 ======
-- 08.2025 - 05.2026: Georgetown University Merit-based Graduate School Scholarship
+- 12.2025: Travel Grant for [Computational Psycholinguistics Meeting 2025](https://cpl2025.sites.uu.nl/)
+  - supported by [MultiplEYE COST Action](https://multipleye.eu/)
 - 04.2025 - 03.2028: [JSPS Research Fellowship (DC1)](https://www.jsps.go.jp/english/e-pd/) [[kaken](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25KJ1326/)]
   - JPY 200,000/month + JPY 3,900,000 (research grant over 3 yrs)
   - 09.2025: Withdrew from the fellowship to pursue an opportunity for studying abroad.
