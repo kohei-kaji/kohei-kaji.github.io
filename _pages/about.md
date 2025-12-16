@@ -35,9 +35,9 @@ News
 Publications
 ======
 
-Conference Papers
+Papers
 ------
-- Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimoto, and Yohei Oseki. If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?. In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, pp.9795-9812, Vienna, Austria.
+- Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimoto, and Yohei Oseki. 2025. If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?. In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, pp.9795-9812, Vienna, Austria.
 [[url](https://aclanthology.org/2025.acl-long.483/)]
 [[arXiv](https://arxiv.org/abs/2502.11469)]
 - **Kohei Kajikawa**, Yusuke Kubota, and Yohei Oseki. 2024. Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination. In *Proceedings of the 28th Conference on Computational Natural Language Learning (CoNLL)*, pp.291–302, Miami, FL, USA. 🏆**Best Paper Award**
@@ -60,9 +60,10 @@ Presentations
 ------
 - Shinnosuke Isono and **Kohei Kajikawa**. 2025, Dec. Grammar as logic, processing as deduction, actions as theorems, states as propositions. *Computational Psycholinguistcs Meeting 2025 (CPL)*, Utrecht, The Netherlands. 📣*Spotlight poster presentation*
 [[abstract](/files/papers/isono_kajikawa_cpl2025.pdf)]
+[[poster](/files/posters/251219_CPL2025.pdf)]
 - **Kohei Kajikawa** and Shinnosuke Isono. 2025, Dec. Syntactic Node Count as Index of Predictability. *Computational Psycholinguistcs Meeting 2025 (CPL)*, Utrecht, The Netherlands.
 [[abstract](/files/papers/kajikawa_isono_cpl2025.pdf)]
-[poster]
+[[poster](/files/posters/251218_CPL2025.pdf)]
 - **Kohei Kajikawa**\*, Shinnosuke Isono\*, Yushi Sugimoto\*, Masayuki Asahara, and Yohei Oseki. 2025, Jul. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. *The 47th Annual Meeting of the Cognitive Science Society (CogSci)*, San Francisco, CA, USA. (\*=equal contribution)
 [[url](https://escholarship.org/uc/item/4664w947)]
 [[poster](https://underline.io/events/489/posters/20440/poster/119339-p1-i-84-exploring-spatial-and-temporal-dynamics-of-language-comprehension-in-the-brain-with-ccg)]
@@ -72,9 +73,8 @@ Presentations
 
 Preprints
 ------
-- Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, and Yohei Oseki. Rethinking the Relationship between the Power Law and Hierarchical Structures. *arXiv*. 05.2025.
+- Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, and Yohei Oseki. 2026. Rethinking the Relationship between the Power Law and Hierarchical Structures.
 [[arXiv](https://arxiv.org/abs/2505.04984v2)]
-
 
 Awards and Honors
 ======
