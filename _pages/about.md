@@ -73,7 +73,9 @@ Presentations
 
 Preprints
 ------
-- Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, and Yohei Oseki. 2026. Rethinking the Relationship between the Power Law and Hierarchical Structures.
+- Shinnosuke Isono, **Kohei Kajikawa**, Masayuki Asahara, and Yohei Oseki. Modeling memory effects in a head-final language with category locality.
+[[PsyArXiv](https://osf.io/preprints/psyarxiv/aj6my_v1)]
+- Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, and Yohei Oseki. Rethinking the Relationship between the Power Law and Hierarchical Structures.
 [[arXiv](https://arxiv.org/abs/2505.04984v2)]
 
 Awards and Honors
