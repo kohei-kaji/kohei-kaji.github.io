@@ -9,14 +9,17 @@ redirect_from:
 
 Hi! I'm Kohei Kajikawa, a first-year PhD student in Computational Linguistics at [Georgetown](https://linguistics.georgetown.edu), where I am advised by [Dr. Ethan Wilcox](https://wilcoxeg.github.io).
 
-
-Previously, I was a first-year PhD student at [National Institute for Japanese Language and Linguistics (NINJAL)](https://www.ninjal.ac.jp/english/), working with [Prof. Yusuke Kubota](https://www2.ninjal.ac.jp/kubota) and [Dr. Shinnosuke Isono](https://isono-s.github.io).
-Before that, I earned my M.A. and B.A. in Linguistics from the University of Tokyo.
-
 My research lies at the intersection of psycholinguistics and computational linguistics.
 I am interested in *how* we comprehend sentences incrementally, that is, how we process hierarchical, multi-layered linguistic information under resource constraints.
 And I am curious about *why* language structures are the way they are.
 I investigate the extent to which processing efficiency can, and cannot, account for cross-linguistic syntactic patterns.
+
+
+
+
+Previously, I was at [National Institute for Japanese Language and Linguistics (NINJAL)](https://www.ninjal.ac.jp/english/), working with [Prof. Yusuke Kubota](https://www2.ninjal.ac.jp/kubota) and [Dr. Shinnosuke Isono](https://isono-s.github.io).
+Before that, I earned my M.A. and B.A. in Linguistics from the University of Tokyo.
+
 
 - [CV](/files/CV_kajikawa.pdf)
 - Email: kohei.kajikawa1223 [at] gmail.com
@@ -73,7 +76,7 @@ Presentations
 
 Preprints
 ------
-- Shinnosuke Isono, **Kohei Kajikawa**, Masayuki Asahara, and Yohei Oseki. Modeling memory effects in a head-final language with category locality.
+- Shinnosuke Isono, **Kohei Kajikawa**, Yohei Oseki, and Masayuki Asahara. Modeling memory effects in a head-final language with category locality.
 [[PsyArXiv](https://osf.io/preprints/psyarxiv/aj6my_v1)]
 - Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, and Yohei Oseki. Rethinking the Relationship between the Power Law and Hierarchical Structures.
 [[arXiv](https://arxiv.org/abs/2505.04984v2)]
@@ -88,6 +91,8 @@ Grants and Fellowships
 ======
 - 12.2025: Travel Grant for [Computational Psycholinguistics Meeting 2025](https://cpl2025.sites.uu.nl/)
   - supported by [MultiplEYE COST Action](https://multipleye.eu/)
+- 12.2025: Travel Grant
+  - supported by Department of Linguistics, Georgetown University
 - 04.2025 - 03.2028: [JSPS Research Fellowship (DC1)](https://www.jsps.go.jp/english/e-pd/) [[kaken](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25KJ1326/)]
   - JPY 200,000/month + JPY 3,900,000 (research grant over 3 yrs)
   - 09.2025: Withdrew from the fellowship to pursue an opportunity for studying abroad.
