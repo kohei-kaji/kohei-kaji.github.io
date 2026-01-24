@@ -18,6 +18,7 @@ I investigate the extent to which processing efficiency can, and cannot, account
 Previously, I was at [National Institute for Japanese Language and Linguistics (NINJAL)](https://www.ninjal.ac.jp/english/), working with [Prof. Yusuke Kubota](https://www2.ninjal.ac.jp/kubota) and [Prof. Shinnosuke Isono](https://isono-s.github.io).
 Before that, I earned my M.A. and B.A. in Linguistics from [The University of Tokyo](https://gamp.c.u-tokyo.ac.jp/eng/index.html).
 
+日本での活動については[こちら](/jp/) (Activities in Japan)
 
 - 📄: [CV](/files/CV_kajikawa.pdf)
 - ✉️: `kk1571 [at] georgetown.edu`
@@ -35,6 +36,8 @@ Publications
 
 Preprints
 ------
+- <ins>Kohei Kajikawa</ins> and Shinnosuke Isono. The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension.
+[[PsyArXiv](https://osf.io/preprints/psyarxiv/9msby_v1)]
 - Shinnosuke Isono, <ins>Kohei Kajikawa</ins>, Yohei Oseki, and Masayuki Asahara. Modeling memory effects in a head-final language with category locality.
 [[PsyArXiv](https://osf.io/preprints/psyarxiv/aj6my_v1)]
 - Kai Nakaishi, Ryo Yoshida, <ins>Kohei Kajikawa</ins>, Koji Hukushima, and Yohei Oseki. Rethinking the Relationship between the Power Law and Hierarchical Structures.
@@ -61,6 +64,8 @@ Conference Proceedings
 
 Conference Presentations/Posters
 ------
+- <ins>Kohei Kajikawa</ins> and Ethan Gotlieb Wilcox. 2026, Mar. Spillover as Rational Processing Delay in Sentence Comprehension. *Annual Meeting of Human Sentence Processing (HSP2026)*, Boston, MA, USA.
+[[abstract](/files/papers/kajikawa_wilcox_hsp2026.pdf)]
 - Shinnosuke Isono and <ins>Kohei Kajikawa</ins>. 2025, Dec. Grammar as logic, processing as deduction, actions as theorems, states as propositions. *Computational Psycholinguistics Meeting 2025 (CPL)*, Utrecht, The Netherlands. 📣*Spotlight poster presentation*
 [[abstract](/files/papers/isono_kajikawa_cpl2025.pdf)]
 [[poster](/files/posters/251219_CPL2025.pdf)]
@@ -77,16 +82,17 @@ Conference Presentations/Posters
 
 Awards and Honors
 ======
-- 06.2025: NINJAL Director's Award
-- 06.2025: NINJAL Young Researcher Encouragement Award
-- 12.2024: CoNLL 2024 Best Paper Award
+- 12.2024: Best Paper Award. CoNLL2024
+- 06.2025: Director's Award. NINJAL
+- 06.2025: Young Researcher Encouragement Award. NINJAL
+- 03.2025: Young Researcher Encouragement Award. ANLP
+- 03.2025: Committee Special Award. ANLP
+- 03.2024: Committee Special Award. ANLP
 
 Grants and Fellowships
 ======
-- 12.2025: Travel Grant for [Computational Psycholinguistics Meeting 2025](https://cpl2025.sites.uu.nl/)
-  - supported by [MultiplEYE COST Action](https://multipleye.eu/)
-- 12.2025: Travel Grant
-  - supported by Department of Linguistics, Georgetown University
+- 12.2025: Travel Grant for [Computational Psycholinguistics Meeting 2025](https://cpl2025.sites.uu.nl/) supported by [MultiplEYE COST Action](https://multipleye.eu/)
+- 12.2025: Travel Grant supported by Department of Linguistics, Georgetown University
 - 04.2025 - 03.2028: [JSPS Research Fellowship (DC1)](https://www.jsps.go.jp/english/e-pd/) [[kaken](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25KJ1326/)]
   - JPY 200,000/month + JPY 3,900,000 (research grant over 3 yrs)
   - 09.2025: Declined the fellowship upon accepting an offer to pursue doctoral training abroad.
