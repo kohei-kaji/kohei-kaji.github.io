@@ -7,6 +7,9 @@ redirect_from:
   - "/nmp.html"
 ---
 
+## 2026
+- 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v1) on the nature of syntactic Node Count!
+
 ## 2025
 - 09.2025: We'll be giving two poster presentations at [CPL2025](https://cpl2025.sites.uu.nl/) this December.
 - 08.2025: I moved to DC and started a PhD program in Georgetown Linguistics!

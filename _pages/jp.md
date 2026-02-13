@@ -42,7 +42,8 @@ redirect_from:
 
 その他発表
 ------
-1. <ins>梶川康平</ins>. 2026/02/13. 情報理論の強み弱みを語りたい. [言語学フェス2026](https://sites.google.com/view/lingfes2026), オンライン.
+1. <ins>梶川康平</ins>. 2026/02/14. 情報理論は言語学に何を語るのか. [言語学フェス2026](https://sites.google.com/view/lingfes2026), オンライン.
+[[poster](/files/posters/260214_gengofes.pdf)]
 1. <ins>梶川康平</ins>. 2025/02/01. 言語の起源はコミュニケーションか?：計算心理言語学の観点から. [言語学フェス2025](https://sites.google.com/view/lingfes2025), オンライン.
 [[poster](/files/posters/250201_gengofes.pdf)]
 1. <ins>梶川康平</ins>, 窪田悠介, 大関洋平. 2024/01/20. 統語変換は文化進化から生じるのか？：等位接続構造での検討. [言語学フェス2024](https://sites.google.com/view/lingfes2024/%E3%83%9B%E3%83%BC%E3%83%A0), オンライン.
@@ -62,8 +63,6 @@ redirect_from:
 ------
 修士の間に考えていたことについては、[『自然言語処理』](https://doi.org/10.5715/jnlp.32.372)に書かせてもらいました。
 また、[アメリカ大学院の出願](/posts/2025/phdapp)、[情報理論](/posts/2025/infotheory/)、[文法の生成力](/posts/2024/mcsg/)、[組合せ範疇文法 (CCG)](/posts/2023/ccg/) について、どれも書きかけですが[ブログ記事](/year-archive/)にあるのでよかったら読んでください。
-
-
 
 
 - [[リンク集](/links)]

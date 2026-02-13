@@ -27,6 +27,7 @@ Before that, I earned my M.A. and B.A. in Linguistics from [The University of To
 
 News
 ======
+- 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v1) on the nature of syntactic Node Count!
 - 08.2025: Started PhD at Georgetown Linguistics.
 - 12.2024: Best Paper Award at CoNLL2024.\
 → [Older news](/news/)
