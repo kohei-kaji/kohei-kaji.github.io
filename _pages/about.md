@@ -27,6 +27,7 @@ Before that, I earned my M.A. and B.A. in Linguistics from [The University of To
 
 News
 ======
+- 02.2026: Our new [preprint](http://arxiv.org/abs/2602.18217) is out! We propose an information-theoretic storage cost!
 - 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v1) on the nature of syntactic Node Count!
 - 08.2025: Started PhD at Georgetown Linguistics.
 - 12.2024: Best Paper Award at CoNLL2024.\
@@ -37,6 +38,8 @@ Publications
 
 Preprints
 ------
+- <ins>Kohei Kajikawa</ins>, Shinnosuke Isono, and Ethan Gotlieb Wilcox. Information-Theoretic Storage Cost in Sentence Comprehension.
+[[arXiv](http://arxiv.org/abs/2602.18217)]
 - <ins>Kohei Kajikawa</ins> and Shinnosuke Isono. The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension.
 [[PsyArXiv](https://osf.io/preprints/psyarxiv/9msby_v1)]
 - Shinnosuke Isono, <ins>Kohei Kajikawa</ins>, Yohei Oseki, and Masayuki Asahara. Modeling memory effects in a head-final language with category locality.
