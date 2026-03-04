@@ -7,9 +7,20 @@ redirect_from:
   - /about_jp.html
 ---
 
+
+日本およびアメリカの大学院の進学について聞かれることがあるのですが、まずは[『大学院進学と指導教員』](https://note.com/lingfieldwork/n/n5b428b1fc437)を読み、自分が置かれている環境と希望先の環境についてじっくり考えてみることを強くおすすめします。
+
+
+修士の間に考えていたことについては、[『自然言語処理』](https://doi.org/10.5715/jnlp.32.372)に書かせてもらいました。
+また、[アメリカ大学院の出願](/posts/2025/phdapp)、[情報理論](/posts/2025/infotheory/)、[文法の生成力](/posts/2024/mcsg/)、[組合せ範疇文法 (CCG)](/posts/2023/ccg/) について、どれも書きかけですが[ブログ記事](/year-archive/)にあるのでよかったら読んでください。
+
+
+
+
 国内学会
 ------
-1. 磯野真之介, <ins>梶川康平</ins>. 2026/03. 大規模言語モデルの衝撃を生き残る統語理論を考える. *言語処理学会第32回年次大会*, pp.XX-XX, 宇都宮.
+1. 磯野真之介, <ins>梶川康平</ins>. 2026/03. 大規模言語モデルの衝撃を生き残る統語理論を考える. *言語処理学会第32回年次大会*, pp.439-443, 宇都宮.
+[[pdf](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/TS2-10.pdf)]
 1. <ins>梶川康平</ins>\*, 磯野真之介\*, 杉本侑嗣\*, 浅原正幸, 大関洋平. 2025/03. CCGによる日本語脳波データのモデリング. *言語処理学会第31回年次大会*, pp.4023-4028, 長崎. [🏆**委員特別賞**](https://www.anlp.jp/nlp2025/award.html#committee).（\*は同等の貢献を表す）
 [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/E10-2.pdf)]
 1. <ins>梶川康平</ins>, 磯野真之介, 窪田悠介, 大関洋平. 2025/03. 認知負荷の最適化戦略としての自由語順と項省略. *言語処理学会第31回年次大会*, pp.1510-1514, 長崎. [🏆**若手奨励賞**](https://www.anlp.jp/nlp2025/award.html#encouragement)
@@ -52,17 +63,8 @@ redirect_from:
 [[slides](https://www.dropbox.com/s/jfbo2nfz0ur4sse/230329_EWFL_Kajikawa.pdf?dl=0)]
 
 
-その他活動
+その他
 ------
 - [CL Nomadic](https://sites.google.com/view/cl-nomadic)
   - 国内での計算言語学研究の盛り上がりのため、関連する学術的活動に対するスポンサーシップを行う取り組みです。
 - 言語処理学会第32回年次大会 (NLP2026) [テーマセッション](https://anlp.jp/nlp2026/#ts_info)『せめぎ合う計算言語学---LLM時代に揺れ動く言語観の中で---』
-
-
-その他
-------
-修士の間に考えていたことについては、[『自然言語処理』](https://doi.org/10.5715/jnlp.32.372)に書かせてもらいました。
-また、[アメリカ大学院の出願](/posts/2025/phdapp)、[情報理論](/posts/2025/infotheory/)、[文法の生成力](/posts/2024/mcsg/)、[組合せ範疇文法 (CCG)](/posts/2023/ccg/) について、どれも書きかけですが[ブログ記事](/year-archive/)にあるのでよかったら読んでください。
-
-
-- [[リンク集](/links)]
