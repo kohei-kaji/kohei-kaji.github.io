@@ -95,6 +95,7 @@ Awards and Honors
 
 Grants and Fellowships
 ======
+- 03.2026: Travel Grant for [Human Sentence Processing 2026](https://hsp2026.org/)
 - 12.2025: Travel Grant for [Computational Psycholinguistics Meeting 2025](https://cpl2025.sites.uu.nl/) supported by [MultiplEYE COST Action](https://multipleye.eu/)
 - 12.2025: Travel Grant supported by Department of Linguistics, Georgetown University
 - 04.2025 - 03.2028: [JSPS Research Fellowship (DC1)](https://www.jsps.go.jp/english/e-pd/) [[kaken](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25KJ1326/)]
