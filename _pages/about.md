@@ -10,9 +10,7 @@ redirect_from:
 Hi! I'm Kohei Kajikawa, a first-year Ph.D. student in Computational Linguistics at Georgetown, advised by [Prof. Ethan G. Wilcox](https://wilcoxeg.github.io).
 
 My research lies at the intersection of psycholinguistics and computational linguistics.
-I study *how* humans comprehend sentences incrementally, that is, how hierarchical, multi-layered linguistic information is processed under cognitive resource constraints.
-I am also interested in *why* language structures are the way they are.
-I investigate the extent to which processing efficiency can, and cannot, account for cross-linguistic syntactic patterns.
+I am investigating human sentence processing through the lens of *information theory* and *syntactic strucutres*.
 
 
 Previously, I was at National Institute for Japanese Language and Linguistics (NINJAL), working with [Prof. Yusuke Kubota](https://www2.ninjal.ac.jp/kubota) and [Prof. Shinnosuke Isono](https://isono-s.github.io).
@@ -45,7 +43,7 @@ Preprints
 - Shinnosuke Isono, <ins>Kohei Kajikawa</ins>, Yohei Oseki, and Masayuki Asahara. Modeling memory effects in a head-final language with category locality.
 [[PsyArXiv](https://osf.io/preprints/psyarxiv/aj6my_v1)]
 - Kai Nakaishi, Ryo Yoshida, <ins>Kohei Kajikawa</ins>, Koji Hukushima, and Yohei Oseki. Rethinking the Relationship between the Power Law and Hierarchical Structures. *To appear in TACL*
-[[arXiv](https://arxiv.org/abs/2505.04984v2)]
+[[arXiv](https://arxiv.org/abs/2505.04984v3)]
 
 <!-- Journal Articles
 ------ -->
