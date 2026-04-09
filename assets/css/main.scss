@@ -42,10 +42,16 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "EB Garamond", serif !important;
+}
+
 .page__content a {
+  color: #3b82f6 !important;
   text-decoration: none !important;
 }
 
 .page__content a:hover {
+  color: hotpink !important;
   text-decoration: none !important;
 }
