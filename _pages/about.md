@@ -25,6 +25,7 @@ Before that, I earned my M.A. and B.A. in Linguistics from **UTokyo**.
 
 News
 ======
+- 04.2026: Two papers were accepted by CoNLL2026!
 - 03.2026: I'm going to Boston to give a [poster](/files/posters/260327_HSP.pdf) presentation at HSP!
 - 02.2026: Our new [preprint](http://arxiv.org/abs/2602.18217) is out! We propose an information-theoretic storage cost!
 - 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v1) on the nature of syntactic Node Count!
@@ -37,7 +38,11 @@ Publications
 
 [**Information-Theoretic Storage Cost in Sentence Comprehension**](http://arxiv.org/abs/2602.18217)\
 **Kohei Kajikawa**, Shinnosuke Isono, Ethan Gotlieb Wilcox\
-*arXiv preprint*, 2026.
+*CoNLL*, 2026.
+
+[**Syntactically-guided Information Maintenance in Sentence Comprehension**]()\
+Shinnosuke Isono, **Kohei Kajikawa**\
+*CoNLL*, 2026.
 
 [**The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension**](https://osf.io/preprints/psyarxiv/9msby_v1)\
 **Kohei Kajikawa**, Shinnosuke Isono\
@@ -57,16 +62,19 @@ Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimoto,
 
 [**Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination**](https://aclanthology.org/2024.conll-1.23/)\
 **Kohei Kajikawa**, Yusuke Kubota, Yohei Oseki\
-*CoNLL*, 2024. [[slides](/files/slides/241115_CoNLL.pdf)]\
-🏆***Best Paper Award***
+*CoNLL*, 2024.\
+🏆***Best Paper Award***\
+[[slides](/files/slides/241115_CoNLL.pdf)]
 
 [**Dissociating Syntactic Operations via Composition Count**](https://escholarship.org/uc/item/2bp2m26p)\
 **Kohei Kajikawa**, Ryo Yoshida, Yohei Oseki\
-*CogSci*, 2024. [[slides](/files/slides/240726_cogsci.pdf)]
+*CogSci*, 2024.\
+[[slides](/files/slides/240726_cogsci.pdf)]
 
 [**Formalizing Argument Structures with Combinatory Categorial Grammar**](https://link.springer.com/chapter/10.1007/978-3-031-43977-3_6)\
 Shinnosuke Isono, Takuya Hasegawa, **Kohei Kajikawa**, Koichi Kono, Shiho Nakamura, Yohei Oseki\
-*Logic and Engineering of Natural Language Semantics (LENLS)*, 2023. [[slides](/files/slides/231119_lenls.pdf)]
+*Logic and Engineering of Natural Language Semantics (LENLS)*, 2023.\
+[[slides](/files/slides/231119_lenls.pdf)]
 
 Conference Presentations
 ------
@@ -109,7 +117,7 @@ Grants and Fellowships
 Academic Service
 ======
 Peer Reviewing
-- CoNLL2025 (💪Outstanding reviewer), LREC2026, CMCL2026
+- CoNLL2025 (💪Outstanding reviewer), LREC2026, CMCL2026, CoNLL2026
 
 Education
 ======
