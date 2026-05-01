@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 2026
-- 04.2026: Two papers were accepted by CoNLL2026!!
+- 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
 - 03.2026: I'm going to Boston to give a [poster](/files/posters/260327_HSP.pdf) presentation at HSP!
 - 02.2026: Our new [preprint](http://arxiv.org/abs/2602.18217) is out! We propose an information-theoretic storage cost!
 - 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v1) on the nature of syntactic Node Count!
@@ -16,6 +16,7 @@ redirect_from:
 ## 2025
 - 09.2025: We'll be giving two poster presentations at [CPL2025](https://cpl2025.sites.uu.nl/) this December.
 - 08.2025: I moved to DC and started a PhD program in Georgetown Linguistics!
+- 08.2025: I was recognized as Outstanding Reviewer at CoNLL2025.
 - 07.2025: Our study will be presented at CogSci2025 and ACL2025.
 - 06.2025: 国立国語研究所にて、所長賞と若手研究者奨励賞をいただきました！
 - 04.2025: 学術振興会特別研究員 (DC1) になりました。

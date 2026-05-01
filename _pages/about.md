@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Computational Linguistics at **Georgetown**, advised by [Prof. Ethan G. Wilcox](https://wilcoxeg.github.io).
+I am a first-year Ph.D. student in Computational Linguistics at **Georgetown**, working with [Prof. Ethan G. Wilcox](https://wilcoxeg.github.io) and [Prof. Nathan Schneider](https://people.cs.georgetown.edu/nschneid/index.html).
 
 My research lies at the intersection of psycholinguistics and computational linguistics.
 I am investigating human sentence processing through the lens of *information theory* and *syntactic structures*.
@@ -25,9 +25,8 @@ Before that, I earned my M.A. and B.A. in Linguistics from **UTokyo**.
 
 News
 ======
-- 04.2026: Two papers were accepted by CoNLL2026!
+- 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
 - 03.2026: I'm going to Boston to give a [poster](/files/posters/260327_HSP.pdf) presentation at HSP!
-- 02.2026: Our new [preprint](http://arxiv.org/abs/2602.18217) is out! We propose an information-theoretic storage cost!
 - 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v1) on the nature of syntactic Node Count!
 - 08.2025: Started PhD at Georgetown Linguistics.
 - 12.2024: Best Paper Award at CoNLL2024.\
@@ -40,7 +39,7 @@ Publications
 **Kohei Kajikawa**, Shinnosuke Isono, Ethan Gotlieb Wilcox\
 *CoNLL*, 2026.
 
-[**Syntactically-guided Information Maintenance in Sentence Comprehension**]()\
+[**Syntactically-guided Information Maintenance in Sentence Comprehension**](https://arxiv.org/abs/2604.27468)\
 Shinnosuke Isono, **Kohei Kajikawa**\
 *CoNLL*, 2026.
 
