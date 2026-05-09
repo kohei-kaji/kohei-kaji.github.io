@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2026
 - 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
-- 03.2026: I'm going to Boston to give a [poster](/files/posters/260327_HSP.pdf) presentation at HSP!
+- 03.2026: I'm going to Boston to give a poster presentation at HSP!
 - 02.2026: Our new [preprint](http://arxiv.org/abs/2602.18217) is out! We propose an information-theoretic storage cost!
 - 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v1) on the nature of syntactic Node Count!
 
