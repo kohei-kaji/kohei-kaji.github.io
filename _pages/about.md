@@ -34,7 +34,7 @@ News
 Publications
 ======
 
-[**Information-Theoretic Storage Cost in Sentence Comprehension**](http://arxiv.org/abs/2602.18217)\
+[**Information-Theoretic Storage Cost in Sentence Comprehension**](https://arxiv.org/abs/2602.18217v2)\
 **Kohei Kajikawa**, Shinnosuke Isono, Ethan Gotlieb Wilcox\
 *CoNLL*, 2026.
 
@@ -91,6 +91,7 @@ Awards and Honors
 
 Grants and Fellowships
 ======
+- 06.2026: The Nippon Foundation HUMAI Program (B)
 - 03.2026: Travel Grant for Human Sentence Processing 2026
 - 12.2025: Travel Grant for Computational Psycholinguistics Meeting 2025 supported by MultiplEYE COST Action
 - 12.2025: Travel Grant supported by Department of Linguistics, Georgetown University
