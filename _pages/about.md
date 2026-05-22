@@ -34,11 +34,11 @@ News
 Publications
 ======
 
-[**Information-Theoretic Storage Cost in Sentence Comprehension**](https://arxiv.org/abs/2602.18217v2)\
+[**Information-Theoretic Storage Cost in Sentence Comprehension**](https://arxiv.org/pdf/2602.18217)\
 **Kohei Kajikawa**, Shinnosuke Isono, Ethan Gotlieb Wilcox\
 *CoNLL*, 2026.
 
-[**Syntactically-guided Information Maintenance in Sentence Comprehension**](https://arxiv.org/abs/2604.27468)\
+[**Syntactically-guided Information Maintenance in Sentence Comprehension**](https://arxiv.org/pdf/2604.27468)\
 Shinnosuke Isono, **Kohei Kajikawa**\
 *CoNLL*, 2026.
 
@@ -54,11 +54,11 @@ Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, Yohei Oseki\
 Shinnosuke Isono, **Kohei Kajikawa**, Yohei Oseki, Masayuki Asahara\
 *PsyArxiv preprint*, 2025.
 
-[**If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?**](https://aclanthology.org/2025.acl-long.483/)\
+[**If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?**](https://aclanthology.org/2025.acl-long.483.pdf)\
 Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimoto, Yohei Oseki\
 *ACL*, 2025.
 
-[**Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination**](https://aclanthology.org/2024.conll-1.23/)\
+[**Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination**](https://aclanthology.org/2024.conll-1.23.pdf)\
 **Kohei Kajikawa**, Yusuke Kubota, Yohei Oseki\
 *CoNLL*, 2024.\
 🏆***Best Paper Award***
