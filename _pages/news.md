@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## 2026
+- 06.2026: 7月14日に[NINJALサロン](https://www.ninjal.ac.jp/events_jp/20260714a/)@国語研で、「人間の文処理に対する情報理論的アプローチ」についてお話しします。
 - 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
 - 03.2026: I'm going to Boston to give a poster presentation at HSP!
 - 02.2026: Our new [preprint](http://arxiv.org/abs/2602.18217) is out! We propose an information-theoretic storage cost!

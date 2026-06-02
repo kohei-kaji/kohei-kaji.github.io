@@ -24,8 +24,8 @@ Before that, I earned my M.A. and B.A. in Linguistics from **UTokyo**.
 
 News
 ======
+- 06.2026: 7月14日に[NINJALサロン](https://www.ninjal.ac.jp/events_jp/20260714a/)@国語研で、「人間の文処理に対する情報理論的アプローチ」についてお話しします。
 - 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
-- 03.2026: I'm going to Boston to give a poster presentation at HSP!
 - 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v1) on the nature of syntactic Node Count!
 - 08.2025: Started PhD at Georgetown Linguistics.
 - 12.2024: Best Paper Award at CoNLL2024.\
@@ -73,11 +73,11 @@ Shinnosuke Isono, Takuya Hasegawa, **Kohei Kajikawa**, Koichi Kono, Shiho Nakamu
 
 Conference Presentations
 ------
-- **Kohei Kajikawa** and Ethan Gotlieb Wilcox. 2026. [Spillover as Rational Processing Delay in Sentence Comprehension](/files/papers/kajikawa_wilcox_hsp2026.pdf). *Human Sentence Processing (HSP)*.
-- Shinnosuke Isono and **Kohei Kajikawa**. 2025. [Grammar as logic, processing as deduction, actions as theorems, states as propositions](/files/papers/isono_kajikawa_cpl2025.pdf). *Computational Psycholinguistics Meeting (CPL)*. 📣*Spotlight poster presentation*
-- **Kohei Kajikawa** and Shinnosuke Isono. 2025. [Syntactic Node Count as Index of Predictability](/files/papers/kajikawa_isono_cpl2025.pdf). *Computational Psycholinguistics Meeting (CPL)*.
-- **Kohei Kajikawa**\*, Shinnosuke Isono\*, Yushi Sugimoto\*, Masayuki Asahara, and Yohei Oseki. 2025. [Exploring spatial and temporal dynamics of language comprehension in the brain with CCG](https://escholarship.org/uc/item/4664w947). *CogSci*. (\*=equal contribution)
-- **Kohei Kajikawa**. 2023. [Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar](/files/papers/kajikawa_lenls2023.pdf). *Logic and Engineering of Natural Language Semantics (LENLS)*.
+- **Kohei Kajikawa** and Ethan Gotlieb Wilcox. Spillover as Rational Processing Delay in Sentence Comprehension. *Annual Meeting of Human Sentence Processing (HSP 2026)*.
+- Shinnosuke Isono and **Kohei Kajikawa**. Grammar as logic, processing as deduction, actions as theorems, states as propositions. *Computational Psycholinguistics Meeting (CPL 2025)*. 📣*Spotlight poster presentation*
+- **Kohei Kajikawa** and Shinnosuke Isono. Syntactic Node Count as Index of Predictability. *Computational Psycholinguistics Meeting (CPL 2025)*.
+- Shinnosuke Isono\*, **Kohei Kajikawa**\*, Yushi Sugimoto\*, Masayuki Asahara, Yohei Oseki. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. *Annual Meeting of Cognitive Science Society (CogSci 2025)*. (\*=equal contribution)
+- **Kohei Kajikawa**. [Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar](/files/papers/kajikawa_lenls2023.pdf). *Logic and Engineering of Natural Language Semantics (LENLS 2023)*.
 
 
 Awards and Honors
