@@ -10,7 +10,7 @@ redirect_from:
 I am a first-year Ph.D. student in Computational Linguistics at **Georgetown**, working with [Prof. Ethan G. Wilcox](https://wilcoxeg.github.io) and [Prof. Nathan Schneider](https://people.cs.georgetown.edu/nschneid/index.html).
 
 My research lies at the intersection of psycholinguistics and computational linguistics.
-I am investigating human sentence processing through the lens of *information theory* and *syntactic structures*.
+I study human sentence processing through the lens of *information theory* and *syntactic structures*.
 
 
 Previously, I was at **NINJAL**, working with [Prof. Yusuke Kubota](https://www2.ninjal.ac.jp/kubota) and [Prof. Shinnosuke Isono](https://isono-s.github.io).
@@ -111,3 +111,6 @@ Education
 - 04.2025 - 08.2025: Ph.D. in Linguistics, National Institute for Japanese Language and Linguistics (NINJAL)
 - 04.2023 - 03.2025: M.A. in Linguistics, The University of Tokyo
 - 04.2019 - 03.2023: B.A. in Linguistics (minor in Computer Science), The University of Tokyo
+
+
+Currently affiliated with [PICoL](https://picol-georgetown.github.io), [NERT](http://nert.georgetown.edu), [Sugawara Group at NII](https://cl.nii.ac.jp), and [*In Silico* Linguistics]()
