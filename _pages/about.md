@@ -34,11 +34,11 @@ News
 Publications
 ======
 
-[**Information-Theoretic Storage Cost in Sentence Comprehension**](https://arxiv.org/pdf/2602.18217)\
+[**Information-Theoretic Storage Cost in Sentence Comprehension**](https://aclanthology.org/2026.conll-main.2.pdf)\
 **Kohei Kajikawa**, Shinnosuke Isono, Ethan Gotlieb Wilcox\
 *CoNLL*, 2026.
 
-[**Syntactically-guided Information Maintenance in Sentence Comprehension**](https://arxiv.org/pdf/2604.27468)\
+[**Syntactically-guided Information Maintenance in Sentence Comprehension**](https://aclanthology.org/2026.conll-main.5.pdf)\
 Shinnosuke Isono, **Kohei Kajikawa**\
 *CoNLL*, 2026.
 
@@ -73,6 +73,7 @@ Shinnosuke Isono, Takuya Hasegawa, **Kohei Kajikawa**, Koichi Kono, Shiho Nakamu
 
 Conference Presentations
 ------
+- Yushi Sugimoto\*, **Kohei Kajikawa**\*, and Shinnosuke Isono\*. Information-theoretic storage cost in the brain: fMRI and EEG evidence from naturalistic sentence comprehension. *Society for the Neurobiology of Language (SNL 2026)*. (*=equal contribution)
 - **Kohei Kajikawa** and Ethan Gotlieb Wilcox. Spillover as Rational Processing Delay in Sentence Comprehension. *Annual Meeting of Human Sentence Processing (HSP 2026)*.
 - Shinnosuke Isono and **Kohei Kajikawa**. Grammar as logic, processing as deduction, actions as theorems, states as propositions. *Computational Psycholinguistics Meeting (CPL 2025)*. 📣*Spotlight poster presentation*
 - **Kohei Kajikawa** and Shinnosuke Isono. Syntactic Node Count as Index of Predictability. *Computational Psycholinguistics Meeting (CPL 2025)*.
