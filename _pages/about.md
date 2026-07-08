@@ -26,7 +26,7 @@ News
 ======
 - 06.2026: 7月14日に[NINJALサロン](https://www.ninjal.ac.jp/events_jp/20260714a/)@国語研で、「人間の文処理に対する情報理論的アプローチ」についてお話しします。
 - 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
-- 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v1) on the nature of syntactic Node Count!
+- 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v2) on the nature of syntactic Node Count!
 - 08.2025: Started PhD at Georgetown Linguistics.
 - 12.2024: Best Paper Award at CoNLL2024.\
 → [Older news](/news/)
@@ -42,7 +42,7 @@ Publications
 Shinnosuke Isono, **Kohei Kajikawa**\
 *CoNLL*, 2026.
 
-[**The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension**](https://osf.io/preprints/psyarxiv/9msby_v1)\
+[**The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension**](https://osf.io/preprints/psyarxiv/9msby_v2)\
 **Kohei Kajikawa**, Shinnosuke Isono\
 *PsyArxiv preprint*, 2026.
 
@@ -114,4 +114,4 @@ Education
 - 04.2019 - 03.2023: B.A. in Linguistics (minor in Computer Science), The University of Tokyo
 
 
-Currently affiliated with [PICoL](https://picol-georgetown.github.io), [NERT](http://nert.georgetown.edu), [Sugawara Group at NII](https://cl.nii.ac.jp), and [*In Silico* Linguistics]()
+Currently affiliated with [PICoL](https://picol-georgetown.github.io), [NERT](http://nert.georgetown.edu), [Sugawara Group at NII](https://cl.nii.ac.jp), and [*In Silico* Linguistics](https://www.insilicoling.c.u-tokyo.ac.jp/)
