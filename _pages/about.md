@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Computational Linguistics at **Georgetown**, working with [Prof. Ethan G. Wilcox](https://wilcoxeg.github.io) and [Prof. Nathan Schneider](https://people.cs.georgetown.edu/nschneid/index.html).
+I am a second-year Ph.D. student in Computational Linguistics at **Georgetown**, working with [Prof. Ethan G. Wilcox](https://wilcoxeg.github.io) and [Prof. Nathan Schneider](https://people.cs.georgetown.edu/nschneid/index.html).
 
 My research lies at the intersection of psycholinguistics and computational linguistics.
 I study human sentence processing through the lens of *information theory* and *syntactic structures*.
@@ -31,8 +31,25 @@ News
 - 12.2024: Best Paper Award at CoNLL2024.\
 → [Older news](/news/)
 
+
 Publications
 ======
+## Journal Articles
+
+[**The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension**](https://osf.io/preprints/psyarxiv/9msby_v2)\
+**Kohei Kajikawa**, Shinnosuke Isono\
+*Under Review*.
+
+[**Modeling memory effects in a head-final language with category locality**](https://osf.io/preprints/psyarxiv/aj6my_v1)\
+Shinnosuke Isono, **Kohei Kajikawa**, Yohei Oseki, Masayuki Asahara\
+*To appear in Open Mind*.
+
+[**Rethinking the Relationship between the Power Law and Hierarchical Structures**](https://arxiv.org/abs/2505.04984v3)\
+Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, Yohei Oseki\
+*To appear in Transactions of the Association for Computational Linguistics (TACL)*.
+
+## Conference Proceedings
+
 
 [**Information-Theoretic Storage Cost in Sentence Comprehension**](https://aclanthology.org/2026.conll-main.2.pdf)\
 **Kohei Kajikawa**, Shinnosuke Isono, Ethan Gotlieb Wilcox\
@@ -42,17 +59,6 @@ Publications
 Shinnosuke Isono, **Kohei Kajikawa**\
 *CoNLL*, 2026.
 
-[**The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension**](https://osf.io/preprints/psyarxiv/9msby_v2)\
-**Kohei Kajikawa**, Shinnosuke Isono\
-*PsyArxiv preprint*, 2026.
-
-[**Rethinking the Relationship between the Power Law and Hierarchical Structures**](https://arxiv.org/abs/2505.04984v3)\
-Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, Yohei Oseki\
-*To appear in TACL*, 2026.
-
-[**Modeling memory effects in a head-final language with category locality**](https://osf.io/preprints/psyarxiv/aj6my_v1)\
-Shinnosuke Isono, **Kohei Kajikawa**, Yohei Oseki, Masayuki Asahara\
-*PsyArxiv preprint*, 2025.
 
 [**If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?**](https://aclanthology.org/2025.acl-long.483.pdf)\
 Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimoto, Yohei Oseki\
@@ -71,13 +77,13 @@ Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimoto,
 Shinnosuke Isono, Takuya Hasegawa, **Kohei Kajikawa**, Koichi Kono, Shiho Nakamura, Yohei Oseki\
 *Logic and Engineering of Natural Language Semantics (LENLS)*, 2023.
 
-Conference Presentations
+Conference Abstracts
 ------
-- Yushi Sugimoto\*, **Kohei Kajikawa**\*, and Shinnosuke Isono\*. Information-theoretic storage cost in the brain: fMRI and EEG evidence from naturalistic sentence comprehension. *Society for the Neurobiology of Language (SNL 2026)*. (*=equal contribution)
+- Yushi Sugimoto\*, **Kohei Kajikawa**\*, and Shinnosuke Isono\*. Information-theoretic storage cost in the brain: fMRI and EEG evidence from naturalistic sentence comprehension. *Society for the Neurobiology of Language (SNL 2026)*.
 - **Kohei Kajikawa** and Ethan Gotlieb Wilcox. Spillover as Rational Processing Delay in Sentence Comprehension. *Annual Meeting of Human Sentence Processing (HSP 2026)*.
 - Shinnosuke Isono and **Kohei Kajikawa**. Grammar as logic, processing as deduction, actions as theorems, states as propositions. *Computational Psycholinguistics Meeting (CPL 2025)*. 📣*Spotlight poster presentation*
 - **Kohei Kajikawa** and Shinnosuke Isono. Syntactic Node Count as Index of Predictability. *Computational Psycholinguistics Meeting (CPL 2025)*.
-- Shinnosuke Isono\*, **Kohei Kajikawa**\*, Yushi Sugimoto\*, Masayuki Asahara, Yohei Oseki. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. *Annual Meeting of Cognitive Science Society (CogSci 2025)*. (\*=equal contribution)
+- Shinnosuke Isono\*, **Kohei Kajikawa**\*, Yushi Sugimoto\*, Masayuki Asahara, Yohei Oseki. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. *Annual Meeting of Cognitive Science Society (CogSci 2025)*.
 - **Kohei Kajikawa**. [Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar](/files/papers/kajikawa_lenls2023.pdf). *Logic and Engineering of Natural Language Semantics (LENLS 2023)*.
 
 
