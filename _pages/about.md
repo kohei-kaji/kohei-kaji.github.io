@@ -34,11 +34,12 @@ News
 
 Publications
 ======
-## Journal Articles
-
+## Preprints
 [**The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension**](https://osf.io/preprints/psyarxiv/9msby_v2)\
-**Kohei Kajikawa**, Shinnosuke Isono\
-*Under Review*.
+**Kohei Kajikawa**, Shinnosuke Isono
+
+
+## Journal Articles
 
 [**Modeling memory effects in a head-final language with category locality**](https://osf.io/preprints/psyarxiv/aj6my_v1)\
 Shinnosuke Isono, **Kohei Kajikawa**, Yohei Oseki, Masayuki Asahara\

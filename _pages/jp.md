@@ -60,9 +60,12 @@ redirect_from:
 また、[アメリカ大学院の出願](/posts/2025/phdapp)、[情報理論](/posts/2025/infotheory/)、[文法の生成力](/posts/2024/mcsg/)、[組合せ範疇文法 (CCG)](/posts/2023/ccg/) について、どれも書きかけですが[ブログ記事](/year-archive/)にあるのでよかったら読んでください。
 
 
+[これまでの発表資料等](/slides/)
+
 最近の活動
 ------
 - 「人間の文処理に対する情報理論的アプローチ」 2026/07/14. [第303回NINJALサロン](https://www.ninjal.ac.jp/events_jp/20260714a/), 国立国語研究所.
+[[slides](/files/slides/260714_NINJAL.pdf)]
 - 「計算心理言語学の新地平開拓の試み：効率的なコミュニケーション仮説の検証」 2025/03. *自然言語処理*, pp.372-378.
 [[pdf](https://doi.org/10.5715/jnlp.32.372)]
 - 「Is Structure Dependence Shaped for Efficient Communication? A Case Study on Coordination」 2025/01/29. [NLPコロキウム](https://nlp-colloquium-jp.github.io/schedule/2025-01-29_kohei-kajikawa/), オンライン.
