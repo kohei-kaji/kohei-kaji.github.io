@@ -23,6 +23,12 @@ main:
   # - title: "CV"
   #   url: /cv/        
 
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Awards"
+    url: /#awards
+
   - title: "日本での活動 (Activities in Japan)"
     url: /jp/
 

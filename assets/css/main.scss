@@ -55,3 +55,55 @@ body, h1, h2, h3, h4, h5, h6 {
   color: hotpink !important;
   text-decoration: none !important;
 }
+
+/* Keep in-page anchor targets from hiding under the fixed masthead */
+html {
+  scroll-padding-top: 5em;
+  scroll-behavior: smooth;
+}
+
+/* Japanese name under the author name in the sidebar */
+.author__name-ja {
+  margin: 0;
+  font-size: 0.9em;
+  color: var(--global-text-color-light, inherit);
+}
+.sidebar .author__name {
+  margin-bottom: 0;
+}
+
+/* ---- Wider layout ----
+   The theme caps the content column at 925px (1280px on very wide screens) and
+   leaves a 17% empty gutter on the right of the page column. Widen the
+   containers and reclaim that gutter. */
+@media (min-width: 57.8125em) {
+  #main,
+  .masthead__inner-wrap {
+    max-width: 1280px;
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  .page {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+}
+@media (min-width: 80em) {
+  #main,
+  .masthead__inner-wrap,
+  .page__footer footer {
+    max-width: 1400px;
+  }
+  .sidebar {
+    max-width: 280px;
+  }
+}
+
+/* ---- Larger name in the author profile ---- */
+.sidebar .author__name {
+  font-size: 1.35em;
+  line-height: 1.2;
+}
+.sidebar .author__name-ja {
+  font-size: 1.05em;
+}

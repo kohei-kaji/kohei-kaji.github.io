@@ -23,3 +23,5 @@ vendor/
 *.pyc
 *.synctex.gz
 *.out
+# Original photos (HEIC etc.), web versions are in files/photos/*.jpg
+files/photos/_originals/
