@@ -117,4 +117,4 @@ redirect_from:
 
 
 😎 学会で訪れた街：
-<iframe src="/map/map.html" height="500" style="width: 100%; border: none;"></iframe>
+<iframe src="/map/map.html" height="600" style="width: 100%; border: none;"></iframe>

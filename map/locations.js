@@ -22,6 +22,4 @@ var addressPoints = [
   ["LSJ 168 (日本言語学会第168回大会)<br />Tokyo, Japan", 35.6895, 139.6917, 2024],
   ["NLP2024 (言語処理学会第30回年次大会)<br />Kobe, Japan", 34.6901, 135.1955, 2024],
   ["NLP2023 (言語処理学会第29回年次大会)<br />Okinawa, Japan", 26.2815, 127.7280, 2023],
-  ["NINJAL Salon (国立国語研究所)<br />Tachikawa, Tokyo, Japan", 35.7133, 139.4053, 2026],
-  ["EWFL8<br />UTokyo Komaba, Tokyo, Japan", 35.6606, 139.6845, 2023]
 ];
