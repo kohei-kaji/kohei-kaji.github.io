@@ -26,7 +26,7 @@ Before that, I earned my M.A. and B.A. in Linguistics from **UTokyo**.
 
 News
 ======
-- 09.2026: Japanese locality effect paper is out from Open Mind😎
+- 09.2026: Japanese locality effect paper is out in Open Mind😎
 - 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
 - 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v2) on the nature of syntactic Node Count!
 - 08.2025: Started PhD at Georgetown Linguistics.
