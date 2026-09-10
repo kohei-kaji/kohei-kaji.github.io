@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<a id="home"></a>
+
 I am a second-year Ph.D. student in Computational Linguistics at **Georgetown**, working with [Prof. Ethan G. Wilcox](https://wilcoxeg.github.io) and [Prof. Nathan Schneider](https://people.cs.georgetown.edu/nschneid/index.html).
 
 My research lies at the intersection of psycholinguistics and computational linguistics.
@@ -24,7 +26,7 @@ Before that, I earned my M.A. and B.A. in Linguistics from **UTokyo**.
 
 News
 ======
-- 06.2026: 7月14日に[NINJALサロン](https://www.ninjal.ac.jp/events_jp/20260714a/)@国語研で、「人間の文処理に対する情報理論的アプローチ」についてお話しします。
+- 09.2026: Japanese locality effect paper is out from Open Mind😎
 - 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
 - 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v2) on the nature of syntactic Node Count!
 - 08.2025: Started PhD at Georgetown Linguistics.
@@ -34,23 +36,14 @@ News
 
 Publications
 ======
-## Preprints
+
 [**The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension**](https://osf.io/preprints/psyarxiv/9msby_v2)\
-**Kohei Kajikawa**, Shinnosuke Isono
+**Kohei Kajikawa**, Shinnosuke Isono\
+*PsyArXiv*, preprint.
 
-
-## Journal Articles
-
-[**Modeling memory effects in a head-final language with category locality**](https://osf.io/preprints/psyarxiv/aj6my_v1)\
+[**Modeling Memory Effects in a Head-final Language with Category Locality**](https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.384/138851/Modeling-Memory-Effects-in-a-Head-Final-Language)\
 Shinnosuke Isono, **Kohei Kajikawa**, Yohei Oseki, Masayuki Asahara\
-*To appear in Open Mind*.
-
-[**Rethinking the Relationship between the Power Law and Hierarchical Structures**](https://arxiv.org/abs/2505.04984v3)\
-Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, Yohei Oseki\
-*To appear in Transactions of the Association for Computational Linguistics (TACL)*.
-
-## Conference Proceedings
-
+*Open Mind*, 2026.
 
 [**Information-Theoretic Storage Cost in Sentence Comprehension**](https://aclanthology.org/2026.conll-main.2.pdf)\
 **Kohei Kajikawa**, Shinnosuke Isono, Ethan Gotlieb Wilcox\
@@ -60,6 +53,9 @@ Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, Yohei Oseki\
 Shinnosuke Isono, **Kohei Kajikawa**\
 *CoNLL*, 2026.
 
+[**Rethinking the Relationship between the Power Law and Hierarchical Structures**](https://arxiv.org/abs/2505.04984v3)\
+Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, Yohei Oseki\
+*TACL*, 2026.
 
 [**If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?**](https://aclanthology.org/2025.acl-long.483.pdf)\
 Ryo Yoshida, Shinnosuke Isono, **Kohei Kajikawa**, Taiga Someya, Yushi Sugimoto, Yohei Oseki\
@@ -88,7 +84,7 @@ Conference Abstracts
 - **Kohei Kajikawa**. [Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar](/files/papers/kajikawa_lenls2023.pdf). *Logic and Engineering of Natural Language Semantics (LENLS 2023)*.
 
 
-Awards and Honors
+Awards and Honors {#awards}
 ======
 - 12.2024: Best Paper Award. CoNLL2024
 - 06.2025: Director's Award. NINJAL
@@ -111,7 +107,7 @@ Grants and Fellowships
 Academic Service
 ======
 Peer Reviewing
-- CoNLL2025 (💪Outstanding reviewer), LREC2026, CMCL2026, CoNLL2026
+- CoNLL2025 (💪Outstanding reviewer), LREC2026, CMCL2026, CoNLL2026, CPL2026, ARR2026
 
 Education
 ======
