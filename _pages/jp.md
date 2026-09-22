@@ -7,6 +7,8 @@ redirect_from:
   - /about_jp.html
 ---
 
+👉[researchmap](https://researchmap.jp/kohei-kajikawa)
+
 
 <details>
 <summary style="cursor: pointer"> 文処理本の計算心理言語学の章に関して、<a href="https://note.com/kesshoban/n/ncdf6bf8f2c71" target="_blank" style="color: #0076df; text-decoration: underline;">note</a> に記事を書きました。</summary>
@@ -17,8 +19,6 @@ redirect_from:
 </small>
 </div>
 </details>
-
-<br>
 
 
 <details>
@@ -38,7 +38,7 @@ redirect_from:
 学会がトラベルグラントを提供していることもあります。
 そもそも、学会参加するためには研究をしないといけないのですが、そこが満足にできないところにいながら学会参加のお金のことを考えてもね、という感じです。
 結局、「著者に入れないと参加費渡航費を払えない」とか言われて従っちゃうのに、ウィンウィンな関係だと言い聞かせ続けるなんてこともあるんでしょうね。
-そうしたところに居続けるのは賢明な判断とはいえません。非合理的です。一緒に考えたり試行錯誤してくれたりするような指導者のところ行くと幸せになれますよ。
+そうしたところに居続けるのは賢明な判断とはいえません。非合理的です。一緒に考えたり試行錯誤してくれたりするような人と働けたら行けたらいいですね。
 </small><br>
 <small>
 所属先への不満を日々考えるのは本当に無駄で、非常に多くの認知リソースを食います。幸せではないです。成長するための試練でもないです。
@@ -51,6 +51,18 @@ redirect_from:
 </div>
 </details>
 
+<details>
+<summary style="cursor: pointer"> <a href="https://github.com/kohei-kaji/ja-constitution-treebank" target="_blank" style="color: #0076df; text-decoration: underline;">日本国憲法の UD アノテーション</a> をしました。</summary>
+<div style="margin-top: 10px;">
+<small>
+UD とは <a href="https://universaldependencies.org/" target="_blank" style="color: #0076df; text-decoration: underline;">Universal Dependencies</a> のことで、世界中のどの言語についても一定の基準で単語同士の統語的な関係を割り当てられるようにしよう、というものです。
+国語研 UD にしたがって短単位をベースに長単位の情報もつけました。まだ UD tools でのチェックはしていないです。
+</small><br>
+<small>
+動機としては、日本国憲法は等位接続が非常に多く文の構造が面白いというのもありますが、どうやらこのままでは <a href="https://storage2.jimin.jp/pdf/news/policy/130250_1.pdf" target="_blank" style="color: #0076df; text-decoration: underline;">これ</a> に変わってしまうようなので、UD という形で残しておくのもありだな、と思ったからです。
+</small>
+</div>
+</details>
 
 <br>
 
@@ -62,6 +74,7 @@ redirect_from:
 
 最近の活動
 ------
+- 「Individual Differences in Regressive Eye Movements during Naturalistic Reading」 2026/10/03. [関西心理言語学研究会 (KCP)](https://kobe-konan.jp/nakatani/kcp/), オンライン.
 - 「人間の文処理に対する情報理論的アプローチ」 2026/07/14. [第303回NINJALサロン](https://www.ninjal.ac.jp/events_jp/20260714a/), 国立国語研究所.
 [[slides](/files/slides/260714_NINJAL.pdf)]
 - 「計算心理言語学の新地平開拓の試み：効率的なコミュニケーション仮説の検証」 2025/03. *自然言語処理*, pp.372-378.
@@ -80,7 +93,7 @@ redirect_from:
 ------
 1. 磯野真之介, <ins>梶川康平</ins>. 2026/03. 大規模言語モデルの衝撃を生き残る統語理論を考える. *言語処理学会第32回年次大会*, pp.439-443, 宇都宮.
 [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/TS2-10.pdf)]
-1. 磯野真之介\*, <ins>梶川康平</ins>\*, 杉本侑嗣\*, 浅原正幸, 大関洋平. 2025/03. CCGによる日本語脳波データのモデリング. *言語処理学会第31回年次大会*, pp.4023-4028, 長崎. [🏆**委員特別賞**](https://www.anlp.jp/nlp2025/award.html#committee).（\*は同等の貢献を表す）
+1. 磯野真之介\*, <ins>梶川康平</ins>\*, 杉本侑嗣\*, 浅原正幸, 大関洋平. 2025/03. CCGによる日本語脳波データのモデリング. *言語処理学会第31回年次大会*, pp.4023-4028, 長崎. [🏆**委員特別賞**](https://www.anlp.jp/nlp2025/award.html#committee).
 [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/E10-2.pdf)]
 1. <ins>梶川康平</ins>, 磯野真之介, 窪田悠介, 大関洋平. 2025/03. 認知負荷の最適化戦略としての自由語順と項省略. *言語処理学会第31回年次大会*, pp.1510-1514, 長崎. [🏆**若手奨励賞**](https://www.anlp.jp/nlp2025/award.html#encouragement)
 [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P4-7.pdf)] [[poster](/files/posters/250311_NLP2025.pdf)]
@@ -96,12 +109,13 @@ redirect_from:
 [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E8-4.pdf)]
 1. <ins>梶川康平</ins>, 吉田遼, 大関洋平. 2023/03. CCGによる日本語文処理のモデリング. *言語処理学会第29回年次大会*, pp.2984-2989, 沖縄.
 [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D12-5.pdf)] [[slides](/files/slides/230315_NLP2023.pdf)]
-1. 磯野真之介\*, <ins>梶川康平</ins>\*, 吉田遼\*, 大関洋平. 2023/03. 極小主義に動機づけられた統語的教示に基づく言語モデル. *言語処理学会第29回年次大会*, pp.952-957, 沖縄.（\*は同等の貢献を表す）
+1. 磯野真之介\*, <ins>梶川康平</ins>\*, 吉田遼\*, 大関洋平. 2023/03. 極小主義に動機づけられた統語的教示に基づく言語モデル. *言語処理学会第29回年次大会*, pp.952-957, 沖縄.
 [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D4-5.pdf)]
 
 
 その他発表
 ------
+1. <ins>Kohei Kajikawa</ins>, Rei Emura. 2026/10/03. Individual Differences in Regressive Eye Movements during Naturalistic Reading. [関西心理言語学研究会 (KCP)](https://kobe-konan.jp/nakatani/kcp/), オンライン.
 1. <ins>梶川康平</ins>. 2026/07/14. 人間の文処理に対する情報理論的アプローチ. [NINJALサロン](https://www.ninjal.ac.jp/events_jp/20260714a/), 国立国語研究所.
 [[slides](/files/slides/260714_NINJAL.pdf)]
 1. <ins>梶川康平</ins>. 2026/02/14. 情報理論は言語学に何を語るのか. [言語学フェス2026](https://sites.google.com/view/lingfes2026), オンライン.
@@ -116,5 +130,5 @@ redirect_from:
 
 
 
-😎 学会で訪れた街：
+😎 学会で訪れた街（写真がついていたりもします）：
 <iframe src="/map/map.html" height="600" style="width: 100%; border: none;"></iframe>

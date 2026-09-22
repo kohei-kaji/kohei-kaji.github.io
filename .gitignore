@@ -23,5 +23,12 @@ vendor/
 *.pyc
 *.synctex.gz
 *.out
+
+CV_kajikawa_short.tex
+CV_kajikawa_short.pdf
+
 # Original photos (HEIC etc.), web versions are in files/photos/*.jpg
 files/photos/_originals/
+
+# uv virtual environment
+.venv/

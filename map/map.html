@@ -16,11 +16,72 @@
     .photos { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
     .photos img { width: 130px; height: 130px; object-fit: cover; border-radius: 4px; cursor: pointer; }
     .photos img:hover { opacity: 0.85; }
+
+    /* Lightbox */
+    #lightbox {
+      display: none; position: fixed; inset: 0; z-index: 10000;
+      background: rgba(0, 0, 0, 0.85);
+      align-items: center; justify-content: center;
+    }
+    #lightbox.open { display: flex; }
+    #lightbox .frame { position: relative; max-width: 92%; max-height: 92%; }
+    #lightbox img {
+      display: block; max-width: 100%; max-height: 92vh;
+      border-radius: 6px; box-shadow: 0 4px 24px rgba(0, 0, 0, 0.6);
+    }
+    #lightbox .close {
+      position: absolute; top: -14px; right: -14px;
+      width: 32px; height: 32px; border-radius: 50%; border: 2px solid #fff;
+      background: #222; color: #fff; font-size: 20px; line-height: 28px;
+      text-align: center; cursor: pointer; user-select: none;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    }
+    #lightbox .close:hover { background: #d33; }
+    #lightbox .caption {
+      position: absolute; right: 0; bottom: 0; max-width: 80%;
+      margin: 0; padding: 6px 12px;
+      background: rgba(0, 0, 0, 0.6); color: #fff;
+      font: 14px/1.4 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+      border-radius: 6px 0 6px 0; text-align: right; white-space: pre-line;
+    }
+    #lightbox .caption:empty { display: none; }
   </style>
 </head>
 <body>
   <div id="map"></div>
+  <div id="lightbox">
+    <div class="frame">
+      <span class="close" title="Close">&times;</span>
+      <img src="" alt="">
+      <p class="caption"></p>
+    </div>
+  </div>
   <script>
+    var lightbox = document.getElementById('lightbox');
+    var lightboxImg = lightbox.querySelector('img');
+    var lightboxCaption = lightbox.querySelector('.caption');
+    function openLightbox(src, caption) {
+      lightboxImg.src = src;
+      lightboxCaption.textContent = caption || '';
+      lightbox.classList.add('open');
+    }
+    function closeLightbox() {
+      lightbox.classList.remove('open');
+      lightboxImg.src = '';
+      lightboxCaption.textContent = '';
+    }
+    lightbox.querySelector('.close').addEventListener('click', closeLightbox);
+    lightbox.addEventListener('click', function (e) {
+      if (e.target === lightbox) closeLightbox();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeLightbox();
+    });
+    document.addEventListener('click', function (e) {
+      var img = e.target.closest('.photos img');
+      if (img) { e.preventDefault(); openLightbox(img.getAttribute('data-full'), img.getAttribute('data-caption')); }
+    });
+
     var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 18,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -35,9 +96,12 @@
       var html = '<b>' + p[0].replace('<br />', '</b><br />') + '<br /><small>' + p[3] + '</small>';
       var photos = p[4] || [];
       if (photos.length) {
-        html += '<div class="photos">' + photos.map(function (f) {
-          var src = '/files/photos/' + encodeURIComponent(f);
-          return '<a href="' + src + '" target="_blank"><img src="' + src + '" loading="lazy"></a>';
+        html += '<div class="photos">' + photos.map(function (ph) {
+          var file = typeof ph === 'string' ? ph : ph.file;
+          var caption = typeof ph === 'string' ? '' : (ph.caption || '');
+          var src = '/files/photos/' + encodeURIComponent(file);
+          var cap = caption.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+          return '<img src="' + src + '" data-full="' + src + '" data-caption="' + cap + '" title="' + cap + '" loading="lazy">';
         }).join('') + '</div>';
       }
       m.bindPopup(html, { maxWidth: 420, minWidth: photos.length ? 400 : 50 });
