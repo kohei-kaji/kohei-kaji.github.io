@@ -107,3 +107,8 @@ html {
 .sidebar .author__name-ja {
   font-size: 1.05em;
 }
+
+/* ---- Tighter spacing between publications on the home page ---- */
+.page__content #publications ~ p:not(#conference-abstracts ~ p) {
+  margin-bottom: 0.7em;
+}
