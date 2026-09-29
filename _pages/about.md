@@ -20,13 +20,14 @@ Before that, I earned my M.A. and B.A. in Linguistics from **UTokyo**.
 
 👉日本での活動については[こちら](/jp/) (Activities in Japan)
 
-- 📄: [CV](/files/CV_kajikawa.pdf) (last updated: Feb. 2026)
+- 📄: [CV](/files/CV_kajikawa.pdf) (last updated: Oct. 2026)
 - ✉️: `kk1571 [at] georgetown.edu`
 
 
 News
 ======
 - 09.2026: Japanese locality effect paper is out in Open Mind😎
+- 08.2026: [Our paper on Language Models × Reading time analysis](https://arxiv.org/abs/2609.32119) has been accepted to EMNLP2026🥳🥳
 - 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
 - 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v2) on the nature of syntactic Node Count!
 - 08.2025: Started PhD at Georgetown Linguistics.
@@ -41,6 +42,10 @@ Publications
 **Kohei Kajikawa**, Shinnosuke Isono\
 *PsyArXiv*, preprint.
 
+[**Using LMs to Model the Effects of Context and Coreference during Sentence Comprehension**](https://arxiv.org/abs/2609.32119)\
+**Kohei Kajikawa**\*, Lin Ai\*, Tatsuki Kuribayashi, Ethan Gotlieb Wilcox\
+*EMNLP*, 2026.
+
 [**Modeling Memory Effects in a Head-final Language with Category Locality**](https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.384/138851/Modeling-Memory-Effects-in-a-Head-Final-Language)\
 Shinnosuke Isono, **Kohei Kajikawa**, Yohei Oseki, Masayuki Asahara\
 *Open Mind*, 2026.
@@ -53,7 +58,7 @@ Shinnosuke Isono, **Kohei Kajikawa**, Yohei Oseki, Masayuki Asahara\
 Shinnosuke Isono, **Kohei Kajikawa**\
 *CoNLL*, 2026.
 
-[**Rethinking the Relationship between the Power Law and Hierarchical Structures**](https://arxiv.org/abs/2505.04984v3)\
+[**Rethinking the Relationship between the Power Law and Hierarchical Structures**](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.785/138664)\
 Kai Nakaishi, Ryo Yoshida, **Kohei Kajikawa**, Koji Hukushima, Yohei Oseki\
 *TACL*, 2026.
 
@@ -76,12 +81,12 @@ Shinnosuke Isono, Takuya Hasegawa, **Kohei Kajikawa**, Koichi Kono, Shiho Nakamu
 
 Conference Abstracts
 ------
-- Yushi Sugimoto\*, **Kohei Kajikawa**\*, and Shinnosuke Isono\*. Information-theoretic storage cost in the brain: fMRI and EEG evidence from naturalistic sentence comprehension. *Society for the Neurobiology of Language (SNL 2026)*.
-- **Kohei Kajikawa** and Ethan Gotlieb Wilcox. Spillover as Rational Processing Delay in Sentence Comprehension. *Annual Meeting of Human Sentence Processing (HSP 2026)*.
-- Shinnosuke Isono and **Kohei Kajikawa**. Grammar as logic, processing as deduction, actions as theorems, states as propositions. *Computational Psycholinguistics Meeting (CPL 2025)*. 📣*Spotlight poster presentation*
-- **Kohei Kajikawa** and Shinnosuke Isono. Syntactic Node Count as Index of Predictability. *Computational Psycholinguistics Meeting (CPL 2025)*.
-- Shinnosuke Isono\*, **Kohei Kajikawa**\*, Yushi Sugimoto\*, Masayuki Asahara, Yohei Oseki. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. *Annual Meeting of Cognitive Science Society (CogSci 2025)*.
-- **Kohei Kajikawa**. [Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar](/files/papers/kajikawa_lenls2023.pdf). *Logic and Engineering of Natural Language Semantics (LENLS 2023)*.
+1. Yushi Sugimoto\*, **Kohei Kajikawa**\*, and Shinnosuke Isono\*. Information-theoretic storage cost in the brain: fMRI and EEG evidence from naturalistic sentence comprehension. *Society for the Neurobiology of Language (SNL 2026)*.
+1. **Kohei Kajikawa** and Ethan Gotlieb Wilcox. Spillover as Rational Processing Delay in Sentence Comprehension. *Annual Meeting of Human Sentence Processing (HSP 2026)*.
+1. Shinnosuke Isono and **Kohei Kajikawa**. Grammar as logic, processing as deduction, actions as theorems, states as propositions. *Computational Psycholinguistics Meeting (CPL 2025)*. 📣*Spotlight poster presentation*
+1. **Kohei Kajikawa** and Shinnosuke Isono. Syntactic Node Count as Index of Predictability. *Computational Psycholinguistics Meeting (CPL 2025)*.
+1. Shinnosuke Isono\*, **Kohei Kajikawa**\*, Yushi Sugimoto\*, Masayuki Asahara, Yohei Oseki. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. *Annual Meeting of Cognitive Science Society (CogSci 2025)*.
+1. **Kohei Kajikawa**. [Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar](/files/papers/kajikawa_lenls2023.pdf). *Logic and Engineering of Natural Language Semantics (LENLS 2023)*.
 
 
 Awards and Honors {#awards}

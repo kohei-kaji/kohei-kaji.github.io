@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ## 2026
+- 09.2026: Japanese locality effect paper is out in Open Mind😎
+- 08.2026: [Our paper on Language Models × Reading time analysis](https://arxiv.org/abs/2609.32119) has been accepted to EMNLP2026🥳🥳
 - 06.2026: 7月14日に[NINJALサロン](https://www.ninjal.ac.jp/events_jp/20260714a/)@国語研で、「人間の文処理に対する情報理論的アプローチ」についてお話しします。
 - 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
 - 03.2026: I'm going to Boston to give a poster presentation at HSP!
