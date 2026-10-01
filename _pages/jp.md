@@ -12,10 +12,12 @@ redirect_from:
 
 <details>
 <summary style="cursor: pointer"> 文処理本の計算心理言語学の章に関して、<a href="https://note.com/kesshoban/n/ncdf6bf8f2c71" target="_blank" style="color: #0076df; text-decoration: underline;">note</a> に記事を書きました。</summary>
-<div style="margin-top: 10px;">
+<div style="margin-top: 10px; padding: 0.75em 1em; border: 1px solid var(--global-border-color); border-radius: 4px; background-color: rgba(128, 128, 128, 0.08);">
+
 <small>
 <a href="https://www.9640.jp/book_view/?1029" target="_blank" style="color: #0076df; text-decoration: underline;">『ひとが言葉を理解・産出する仕組み 心理言語学入門』</a> の第 9 章についてです。
-この記事に関してコメント等ありましたら、note でのコメント機能か <code>kk1571@georgetown.edu</code> までご連絡ください。
+<br>
+この記事に関してコメント等ございましたら、note でのコメント機能か <code>kk1571@georgetown.edu</code> までご連絡ください。
 </small>
 </div>
 </details>
@@ -23,37 +25,70 @@ redirect_from:
 
 <details>
 <summary style="cursor: pointer"> 日本およびアメリカの大学院の進学について聞かれることがあるのですが、まずは九大の下地先生による <a href="https://note.com/lingfieldwork/n/n5b428b1fc437" target="_blank" style="color: #0076df; text-decoration: underline;">『大学院進学と指導教員』</a> を読み、自分が置かれている環境と希望先の環境についてじっくり考えてみることを強くおすすめします。</summary>
-<div style="margin-top: 10px;">
+<div style="margin-top: 10px; padding: 0.75em 1em; border: 1px solid var(--global-border-color); border-radius: 4px; background-color: rgba(128, 128, 128, 0.08);">
 
 <small>
 私は数年前の冬にこの記事を読みました。
 そして、繰り返し読んでさらに半年ほど経ってからようやくこの記事を咀嚼でき、自分が良い環境を探す努力を一切していなかったことに気がつきました。
-明らかにこの記事は正しいことを言っているし従うべきなのに、自分はなんとかなっている気がするから、自分だけは違う気がするから、と何もしない。
-特に人文系の大学院では、本来生存のために従うべき知見がたくさんあるのに、周囲の学生数が少ないことからかそうしたことへ意識が向けられにくく、「自分だけは違う。何とかなっている。」と勘違いしてしまいがちです。ほんとうに愚か！
-</small><br>
-<small>
-ただ、もちろん、移動にはさまざまなコストがかかるし、認知の歪みもかかって「ここにいることにもメリットはある」みたいなことを日々考えてしまったりするものでしょう。
+この記事には明らかに正しく従うべきことが書かれているのに、なんやかんや自分はなんとかなっている気がするから、自分だけは違う気がするから、と何もしない。
+特に人文系の大学院では、本来生存のために従うべき知見がたくさんあるのに、周囲の学生数が少ないことからかそうしたことへ意識が向けられにくく、「自分だけは違う。何とかなっている。」と勘違いしてしまいがちです。
+自分もまさにその一人でした。何も考えていないだけ。ほんとうに愚か！
+<br>
+研究は武者修行のように一人で黙々と時間をかけて行うもの、みたいな雰囲気があるところがありますが、あたりまえに意味不明でしょう。毎週何らかしらのフィードバックがあった方が進むに決まっている。そういう雰囲気が醸成されてしまっていると、学生は「研究が進まないのは自分の能力がないからだ」みたいな思考に陥ってくれます。いや、指導者が指導をしていないだけでは。
+<br>
+ただ、残念ながら、現環境から「逃げ出す」のにはさまざまなコストを要します。さらに、認知の歪みもかかって「ここにいることにもメリットはある」みたいなことを日々考えてしまったりするものでしょう。
 例えば「でもここにはお金がある！」などという標語が蔓延ったりするんでしょう。
 だが、学会参加などの正当な目的にはお金を工面してくださる先生は、探そうとしていないだけで、本来周りにたくさんいます。
-学会がトラベルグラントを提供していることもあります。
+学会がトラベルグラントを提供していることもあります。言語処理分野での <a href="https://yans.anlp.jp/entry/yans2026grants" target="_blank" style="color: #0076df; text-decoration: underline;"> YANS の旅費支援 </a> などはすごく良い取り組みだな、と思いました。
 そもそも、学会参加するためには研究をしないといけないのですが、そこが満足にできないところにいながら学会参加のお金のことを考えてもね、という感じです。
 結局、「著者に入れないと参加費渡航費を払えない」とか言われて従っちゃうのに、ウィンウィンな関係だと言い聞かせ続けるなんてこともあるんでしょうね。
-そうしたところに居続けるのは賢明な判断とはいえません。非合理的です。一緒に考えたり試行錯誤してくれたりするような人と働けたら行けたらいいですね。
-</small><br>
-<small>
+そうしたところに居続けるのは賢明な判断とはいえません。非合理的です。
+学生に寄り添ってくれるような人と働けたらいいですね。
+<br>
 所属先への不満を日々考えるのは本当に無駄で、非常に多くの認知リソースを食います。幸せではないです。成長するための試練でもないです。
 日常からそんな無駄な時間を消しましょう。
-</small><br>
-<small>
+<br>
+そもそも入る前だったらどう見分ければよいかって？そこ所属の学生に連絡をとり、<a href="https://note.com/lingfieldwork/n/n5b428b1fc437" target="_blank" style="color: #0076df; text-decoration: underline;"> 下地先生が挙げている「兆候」 </a> について聞くとか、これまでの学生の出入りを見てみるとか（人が集まるようなところなのか、逃げ出していっているところなのか）、論文がそれぞれの学生および教員から出ているか、とかじゃないですかね。
+<br>
 私で役に立てることがあれば、喜んで相談に乗ります。また、他の方に繋ぐことも可能です。<code>kk1571@georgetown.edu</code> までご連絡ください。
 </small>
 
 </div>
 </details>
 
+
+
+<details>
+<summary style="cursor: pointer"> 2024 年度に書いた学振 DC1 の申請書を置いておきます。</summary>
+<div style="margin-top: 10px; padding: 0.75em 1em; border: 1px solid var(--global-border-color); border-radius: 4px; background-color: rgba(128, 128, 128, 0.08);">
+
+<small>
+👉<a href="/files/applications/DC1_Kajikawa.pdf" target="_blank" style="color: #0076df; text-decoration: underline;">DC1 申請書（小区分02060:言語学関連）</a>
+<br>
+いただいたアドバイスで、特に強く心に残っているものは、「設問に正しく答えろ」と「1. なぜその研究か、2. なぜ今やるのか、3. なぜ自分がやるのか・自分ならできるのか、を説明しろ」です。
+また、これはあらゆる執筆に共通しますが、なるべく多く過去の申請書を読み、なるべく早く書き、多くの人にコメントや修正案をもらうことが近道でした。
+もちろん、修正してもらうことでの改善量が圧倒的に多かったです。感謝。
+<br>
+また、申請書だけではなく、申請時の予算計画も丁寧に書くことをお勧めします💪
+<br>
+学振は、ちゃんとものを考えて文章を書くという練習になったのはいいものの、評価基準のわからない申請書で申請者の 1 割強にしかお金を出さないなんてのはほんとうに残念です。
+通っても月々の額は微々たるものだし、さらにそこから所得税等税金に持っていかれる。
+私は、学振に採用されてから、年金の学生納付特例が却下されました。
+20 歳から支払い猶予を受けていた分の追納を求められ、当然ながら学振での給与分はすべて吸われました。
+金銭面だけでなく、申請段階での「評価書」という要求もあまり納得できません。
+申請者自身が「下書き」を書くのが慣習とか言われていたりしますね。
+ハラスメントの温床でしょう。
+<br>
+「科学技術立国」の推進とか適当に言うのなら、学生みたいな弱い立場の人を正しく支援しないといけないんじゃないですかね。
+</small>
+
+</div>
+</details>
+
+
 <details>
 <summary style="cursor: pointer"> <a href="https://github.com/kohei-kaji/ja-constitution-treebank" target="_blank" style="color: #0076df; text-decoration: underline;">日本国憲法の UD アノテーション</a> をしました。</summary>
-<div style="margin-top: 10px;">
+<div style="margin-top: 10px; padding: 0.75em 1em; border: 1px solid var(--global-border-color); border-radius: 4px; background-color: rgba(128, 128, 128, 0.08);">
 <small>
 UD とは <a href="https://universaldependencies.org/" target="_blank" style="color: #0076df; text-decoration: underline;">Universal Dependencies</a> のことで、世界中のどの言語についても一定の基準で単語同士の統語的な関係を割り当てられるようにしよう、というものです。
 国語研 UD にしたがって短単位をベースに長単位の情報もつけました。まだ UD tools でのチェックはしていないです。
