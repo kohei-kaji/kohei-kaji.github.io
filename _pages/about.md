@@ -29,7 +29,7 @@ News
 - 09.2026: Japanese locality effect paper is out in Open Mind😎
 - 08.2026: [Our paper on Language Models × Reading time analysis](https://arxiv.org/abs/2609.32119) has been accepted to EMNLP2026🥳🥳
 - 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
-- 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v2) on the nature of syntactic Node Count!
+- 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v3) on the nature of syntactic Node Count!
 - 08.2025: Started PhD at Georgetown Linguistics.
 - 12.2024: Best Paper Award at CoNLL2024.\
 → [Older news](/news/)
@@ -38,13 +38,14 @@ News
 Publications
 ======
 
-[**The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension**](https://osf.io/preprints/psyarxiv/9msby_v2)\
+[**The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension**](https://osf.io/preprints/psyarxiv/9msby_v3)\
 **Kohei Kajikawa**, Shinnosuke Isono\
 *PsyArXiv*, preprint.
 
-[**Using LMs to Model the Effects of Context and Coreference during Sentence Comprehension**](https://arxiv.org/abs/2609.32119)\
+[**Using LMs to Model the Effects of Context and Coreference during Sentence Comprehension**](https://aclanthology.org/2026.emnlp-main.871.pdf)\
 **Kohei Kajikawa**\*, Lin Ai\*, Tatsuki Kuribayashi, Ethan Gotlieb Wilcox\
 *EMNLP*, 2026.
+Nominated for best paper
 
 [**Modeling Memory Effects in a Head-final Language with Category Locality**](https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.384/138851/Modeling-Memory-Effects-in-a-Head-Final-Language)\
 Shinnosuke Isono, **Kohei Kajikawa**, Yohei Oseki, Masayuki Asahara\

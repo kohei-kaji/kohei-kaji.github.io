@@ -10,6 +10,7 @@ redirect_from:
 これまでの発表資料など。
 
 # スライド
+1. [Using LMs to Model the Effects of Context and Coreference during Sentence Comprehension](/files/slides/261026_EMNLP.pdf) (EMNLP2026)
 1. [文処理研究に対する情報理論的アプローチ](/files/slides/260714_NINJAL.pdf) (NINJALサロン)
 1. [Information-Theoretic Storage Cost in Sentence Comprehension](/files/slides/260703_CoNLL.pdf) (CoNLL2026)
 1. [Is Structure Dependence Shaped for Efficient Communication? A Case Study on Coordination](/files/slides/250129_nlpcolloquium.pdf) (NLPコロキウム)
