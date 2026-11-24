@@ -101,6 +101,7 @@ Awards and Honors {#awards}
 
 Grants and Fellowships
 ======
+- 11.2026: The Association for Natural Language Processing (ANLP) Study Abroad Grant (言語処理学会 海外留学支援)
 - 06.2026: The Nippon Foundation HUMAI Program (B)
 - 03.2026: Travel Grant for Human Sentence Processing 2026
 - 12.2025: Travel Grant for Computational Psycholinguistics Meeting 2025 supported by MultiplEYE COST Action

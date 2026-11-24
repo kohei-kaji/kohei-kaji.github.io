@@ -5,7 +5,7 @@
 // Add places/photos with `uv run map/manage_map.py` (see map/README.md), or edit this file by hand.
 var addressPoints = [
   // --- International ---
-  ["EMNLP 2026<br />Budapest, Hungary", 47.4979, 19.0402, 2026],
+  ["EMNLP 2026<br />Budapest, Hungary", 47.4979, 19.0402, 2026, ["budapest_presentation.jpg", "budapest_city.jpg", "budapest_river.jpg", "budapest_wine.jpg"]],
   ["SMLP 2026 (summer school)<br />University of Potsdam, Germany", 52.4088, 12.9762, 2026, ["potsdam_station.jpg", {"file": "potsdam_monument.jpg", "caption": "ポツダムのトルーマン邸宅前にある原爆追悼碑"}]],
   ["CoNLL 2026<br />San Diego, CA, USA", 32.7157, -117.1611, 2026, ["sd_presentation.jpg", "sd_beach.jpg", "sd_beach2.jpg", "sd_ship.jpg"]],
   ["HSP 2026<br />Cambridge, MA, USA", 42.3736, -71.1097, 2026, ["boston_presentation.jpg", {"file": "boston_city.jpg", "caption": "ボストンの街並み"}]],

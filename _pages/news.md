@@ -14,7 +14,7 @@ redirect_from:
 - 04.2026: Two of our papers on storage costs have been accepted to CoNLL 2026!
 - 03.2026: I'm going to Boston to give a poster presentation at HSP!
 - 02.2026: Our new [preprint](http://arxiv.org/abs/2602.18217) is out! We propose an information-theoretic storage cost!
-- 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v1) on the nature of syntactic Node Count!
+- 01.2026: Check out our new [preprint](https://osf.io/preprints/psyarxiv/9msby_v3) on the nature of syntactic Node Count!
 
 ## 2025
 - 09.2025: We'll be giving two poster presentations at [CPL2025](https://cpl2025.sites.uu.nl/) this December.
