@@ -9,7 +9,10 @@ redirect_from:
 
 [トップページへ戻る](/)
 
-👉[researchmap](https://researchmap.jp/kohei-kajikawa)
+米国ジョージタウン大学言語学科、博士課程 2 年目の梶川康平です。\
+計算言語学・心理言語学に関する研究をしています。\
+最近は、人間の文理解における合理的な資源配分戦略に興味があります。\
+入力に対して、限られた認知資源をどのように使って理解をしているのか、情報理論や言語構造（統語構造など）を通して考えています。
 
 
 <details>
@@ -111,11 +114,12 @@ UD とは <a href="https://universaldependencies.org/" target="_blank" style="co
 また、[アメリカ大学院の出願](/posts/2025/phdapp)、[情報理論](/posts/2025/infotheory/)、[文法の生成力](/posts/2024/mcsg/)、[組合せ範疇文法 (CCG)](/posts/2023/ccg/) について、どれも書きかけですが[ブログ記事](/year-archive/)にあるのでよかったら読んでください。
 
 
+👉[researchmap](https://researchmap.jp/kohei-kajikawa) <small>← 最近、海外からアクセスできなくなっています。作ったはいいものの管理ができないです。</small>\
 👉[これまでの発表資料等](/slides/)
 
 最近の活動
 ------
-- 「Individual Differences in Regressive Eye Movements during Naturalistic Reading」 2026/10/03. [関西心理言語学研究会 (KCP)](https://kobe-konan.jp/nakatani/kcp/), オンライン.
+- 言語処理学会第33回年次大会 (NLP2027) テーマセッション[『せめぎ合う計算言語学』](https://anlp.jp/nlp2027/#ts_info)
 - 「人間の文処理に対する情報理論的アプローチ」 2026/07/14. [第303回NINJALサロン](https://www.ninjal.ac.jp/events_jp/20260714a/), 国立国語研究所.
 [[slides](/files/slides/260714_NINJAL.pdf)]
 - 「計算心理言語学の新地平開拓の試み：効率的なコミュニケーション仮説の検証」 2025/03. *自然言語処理*, pp.372-378.
